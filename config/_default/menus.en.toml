@@ -11,14 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+ name = "About"
+ pageRef = "about"
+ weight = 10
+
+[[main]]
  name = "Posts"
  pageRef = "posts"
- weight = 10
+ weight = 20
 
 [[main]]
   name = "Drive Talks"
   url = "https://drivetalks.car.blog"
-  weight = 20
+  weight = 30
 
 # [[main]]
 #  name = "Categories"
