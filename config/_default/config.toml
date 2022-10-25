@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://insidemordecai.github.io/website/"
+baseURL = "https://insidemordecai.com"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
