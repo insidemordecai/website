@@ -9,7 +9,7 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 
- googleAnalytics = "G-R5NDGF0KV2"
+googleAnalytics = "G-R5NDGF0KV2"
 
 [taxonomies]
   tag = "tags"
