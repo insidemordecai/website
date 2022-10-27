@@ -25,6 +25,7 @@ Outside of tech, I obsessively watch motorsport - mainly Formula 1 (and its feed
 
 In my former years, I did some piano playing and singing - not that I don't sing now but just to the audience of my pet.
 
-[dart]: https://dart.dev
-[drivetalks]: https://drivetalks.car.blog
-[flutter]: https://flutter.dev
+<!-- organise alphabetically -->
+[dart]: https://dart.dev "A client-optimized language for fast apps on any platform"
+[drivetalks]: https://drivetalks.car.blog "A car/motorsport blog "
+[flutter]: https://flutter.dev "An open-source cross-platform UI software development kit created by Google."
