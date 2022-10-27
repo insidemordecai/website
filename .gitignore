@@ -1,1 +1,7 @@
 .hugo_build.lock
+
+### Hugo template
+# Generated files by hugo
+/public/
+/resources/_gen/assets
+!/resources/_gen/images/
