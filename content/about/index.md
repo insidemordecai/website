@@ -7,6 +7,7 @@ showDate: false
 showReadingTime: false
 sharingLinks: false
 showAuthor: false
+showPagination : false
 ---
 
 Hi 👋 I'm Mordecai, a Software Developer and a Computer Science graduate.
