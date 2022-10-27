@@ -11,6 +11,9 @@ buildFuture = false
 
 googleAnalytics = "G-R5NDGF0KV2"
 
+[permalinks]
+  posts = '/:title/' # for cleaner links
+
 [taxonomies]
   tag = "tags"
   category = "categories"
