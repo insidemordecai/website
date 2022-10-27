@@ -3,7 +3,8 @@ title: "Fedora Setup Guide"
 date: 2022-10-27T23:05:20+03:00
 draft: true
 
-tags: ["Linux", "Fedora"]
+categories: ["Linux"]
+tags: ["Fedora"]
 ---
 
 This is how I go about setting up Fedora Workstation, feel free to follow mine tweaking where necessary.
@@ -13,7 +14,7 @@ This is how I go about setting up Fedora Workstation, feel free to follow mine t
 
 By default DNF is slow (maybe DNF5 might change that in the future), add these flags to `/etc/dnf/dnf.conf` to speed things up and just for quality of life improvement
 
-```
+```text
 max_parallel_downloads=10
 fastestmirror=True
 deltarpm=True
@@ -23,7 +24,7 @@ defaultyes=True
 
 ## System Update
 
-```
+```text
 sudo dnf update -y
 ```
 
@@ -31,7 +32,7 @@ sudo dnf update -y
 
 This will give us access to way more apps/softwares that are not available on the standard Fedora repo.
 
-```
+```text
 sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 sudo dnf groupupdate core
 ```
@@ -42,7 +43,7 @@ For more information, check out the [RPM Fusion] website
 
 Fedora ships with Flatpak enabled but we need to add Flathub.
 
-```
+```text
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 ```
 
@@ -50,7 +51,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 
 After setting up RPM Fusion, you can add multimedia packages.
 
-```
+```text
 sudo dnf groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
 sudo dnf groupupdate sound-and-video
 sudo dnf group upgrade --with-optional Multimedia
@@ -60,20 +61,20 @@ For more information, check out the [RPM Fusion] website
 
 ## Add Extra Fonts
 
-```
+```text
 sudo dnf install -y fira-code-fonts 'mozilla-fira*' 'google-roboto*'
 ```
 
 Sometimes Microsoft fonts are needed:
 
-```
+```text
 sudo dnf install -y curl cabextract xorg-x11-font-utils fontconfig
 sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm
 ```
 
 And finally adding, better looking altenatives of proprietary fonts we may not get (check out [fedora-better-fonts]):
 
-```
+```text
 sudo dnf copr enable dawid/better_fonts -y
 sudo dnf install fontconfig-font-replacements -y
 ```
@@ -85,7 +86,7 @@ I also add these fonts to `~/.local/share/fonts` since I use them in my terminal
 
 ## Install GNOME Tweaks
 
-```
+```text
 sudo dnf install gnome-tweaks
 ```
 
@@ -133,7 +134,7 @@ I typically change the following in about:config to true to enable hardware acce
 
 On Firefox, YouTube shows the scrollbars in fullscreen which make it very easy for me to accidentally click on it and suddenly move down the page. To fix this, I add this line to my uBlock Origin filter [credit: this reddit comment]:
 
-```
+```text
 www.youtube.com##ytd-app:style(overflow: hidden !important;)
 ```
 
