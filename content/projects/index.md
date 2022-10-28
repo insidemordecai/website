@@ -31,7 +31,7 @@ On my quest to constantly learn and upskill, I have taken on multiple projects, 
             <td><a target="_blank" href="https://github.com/insidemordecai/etransact/">GitHub</a></td>
         </tr>
          <tr>
-            <td><img class="customEntitityAlbum" src="cz-text-logo.png"/></td>
+            <td><img class="customEntitityAlbum" src="cz-logo.png"/></td>
             <td>Chequered Zone</td>
             <td>A fullstack motorsport news website with users and their priviledges - standard users and admins. This was built using PHP and CSS (Bootstrap) with the backend as MySQL</td>
             <td><a target="_blank" href="https://github.com/insidemordecai/chequered-zone/">GitHub</a></td>
