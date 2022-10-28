@@ -1,5 +1,5 @@
 ---
-title: "Fedora Setup Guide"
+title: "Fedora Linux Setup Guide"
 date: 2022-10-27T23:05:20+03:00
 draft: false
 
