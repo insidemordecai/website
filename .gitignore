@@ -1,7 +1,19 @@
 .hugo_build.lock
+.DS_Store
 
-### Hugo template
-# Generated files by hugo
+# Hugo generated files
 /public/
 /resources/_gen/assets
 !/resources/_gen/images/
+
+# VS Code
+.vscode/*
+*.code-workspace
+
+# Vim Swap
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
