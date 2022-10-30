@@ -1,13 +1,13 @@
 ---
-title: "Fedora Linux Setup Guide"
+title: Fedora Linux Setup Guide
+slug: fedora-linux-setup-guide
 date: 2022-10-27T23:05:20+03:00
+categories: [Linux]
+tags: [Fedora, Post Install]
 draft: false
-
-categories: ["Linux"]
-tags: ["Fedora", "Post Install"]
 ---
 
-This is how I go about setting up  Fedora Workstation, feel free to follow my guide tweaking where necessary.
+This is how I go about setting up Fedora Workstation, feel free to follow my guide tweaking where necessary.
 
 <!--more-->
 

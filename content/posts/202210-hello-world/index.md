@@ -1,9 +1,9 @@
 ---
-title: "Hello World 👋"
+title: Hello World 👋
+slug: hello-world
 date: 2022-10-27T12:00:39+03:00
+tags: [Intro]
 draft: false
-
-tags: ["Intro"]
 ---
 
 Thank you for passing by. 

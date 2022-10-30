@@ -12,7 +12,7 @@ buildFuture = false
 googleAnalytics = "G-R5NDGF0KV2"
 
 [permalinks]
-  posts = '/:title/' # for cleaner links
+  posts = '/:slug/' # for cleaner links and avoiding broken links on backlinks
 
 [taxonomies]
   tag = "tags"
