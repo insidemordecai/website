@@ -11,6 +11,7 @@ showPagination : false
 ---
 
 Hi 👋 I'm Mordecai, a Software Developer and a Computer Science graduate.
+<!--more-->
 
 ## What I do
 

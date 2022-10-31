@@ -8,7 +8,7 @@ draft: false
 
 Thank you for passing by. 
 
-This is just a short introduction piece, much like how printing "Hello world" is usually the first thing one learns when they begin programming. So this is just what I intend to do with this website.
+This is just a short introduction piece to mention what I intend to do with this website. Very much like how printing "Hello world" is usually the first thing one learns when they begin programming.
 
 <!--more-->
 
@@ -16,6 +16,6 @@ I plan on this being more like a frankenstein of a blog and a portfolio - blogfo
 
 As this is a static site, currently a comment section is not implemented and I am not sure if I'll do so. I am weighing up the pros and cons of having it but we'll see how this goes. 
 
-Anyway, feel free to reach out to me.
+Anyway, feel free to reach out to me. You can have a look at my [About]({{< ref "about/index.md" >}}) or [Projects]({{< ref "projects/index.md" >}}) page.
 
 Cheers ✌️

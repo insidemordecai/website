@@ -12,7 +12,8 @@ sharingLinks : false
 showPagination : false
 ---
 
-On my quest to constantly learn and upskill, I have taken on multiple projects, here are some of my works:
+This section outlines some of the projects I have taken on my quest to constantly learn and upskill.
+<!--more-->
 
 <table>
     <thead>

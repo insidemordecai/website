@@ -7,7 +7,7 @@ tags: [Fedora, Post Install]
 draft: false
 ---
 
-This is how I go about setting up Fedora Workstation, feel free to follow my guide tweaking where necessary.
+These are the things to do after installing Fedora Linux, feel free to follow my guide tweaking where necessary.
 
 <!--more-->
 
@@ -180,6 +180,7 @@ Cheers ✌️
 [comicmono]: https://github.com/dtinth/comic-mono-font "A legible monospace font...  the very typeface you’ve been trained to recognize since childhood"
 [.dotfiles]: https://github.com/insidemordecai/.dotfiles "My dotfiles backup repository on GitHub"
 [feature-source]: https://www.reddit.com/r/Fedora/comments/yawrfu/5120_x_1440_oc_i_present_you_my_simple_fedora/ "r/Fedora post"
+[fedora]: https://getfedora.org "Fedora - Welcome to Freedom."
 [fedora-better-fonts]: https://github.com/silenc3r/fedora-better-fonts "Free substitutions for popular proprietary fonts from Microsoft and Apple operating systems"
 [flathub]: https://flathub.org "An app store and build service for Linux"
 [libadwaita]: https://gitlab.gnome.org/GNOME/libadwaita "Libadwaita on GNOME's GitLab - Building blocks for modern GNOME applications"
