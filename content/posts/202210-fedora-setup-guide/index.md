@@ -111,9 +111,9 @@ Apps I use include:
 - **Browsers**: Firefox (flatpak version), [Brave Browser][brave]
 - **Coding**: VS Code, [Android Studio][android-studio]
 - **Gaming**: Steam
-- **Multimedia**: Spotify, VLC
+- **Multimedia**: [Shortwave][shortwave], Spotify, VLC
 - **Terminal Emulator**: Alacritty (including [nautilus-open-any-terminal] and [starship])
-- **Torrent Client**: qBittorent
+- **Torrent Client**: qBittorent, Transmission (trying it out as it seems to work better with [adw-gtk3])
 - **Utilities**: htop, [Xtreme Download Manager][xdm] (only for YouTube and large downloads)
 - **Others**: Discord, Extension Manager, gThumb, [ProtonVPN][protonvpn-fedora-download], [Solaar][solaar] (for Logitech peripherals)
 
@@ -189,6 +189,7 @@ Cheers ✌️
 [reddit-comment-firefox]: https://www.reddit.com/r/firefox/comments/lija24/comment/gph104v/?utm_source=share&utm_medium=web2x&context=3 "comment on r/Firefox"
 [rpm-fusion]: https://rpmfusion.org/Configuration "RPM Fusion's Configuration Page"
 [sf-mono-nf]: https://github.com/epk/SF-Mono-Nerd-Font "Apple's SF Mono font patched with the Nerd Fonts patcher"
+[shortwave]: https://flathub.org/apps/details/de.haeckerfelix.Shortwave "Shortwave is an internet radio player that provides access to a station database with over 25,000 stations."
 [solaar]: https://pwr-solaar.github.io/Solaar/ "Linux Device Manager for Logitech Unifying Receivers and Devices."
 [starship]: https://starship.rs/ "Command line prompt"
 [ublock-origin]: https://ublockorigin.com/ "uBlock Origin - Free, open-source ad content blocker."
