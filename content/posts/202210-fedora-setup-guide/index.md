@@ -19,7 +19,6 @@ By default DNF is slow (maybe DNF5 might change that in the future), to fix that
 echo 'max_parallel_downloads=10' | sudo tee -a /etc/dnf/dnf.conf
 echo 'fastestmirror=True' | sudo tee -a /etc/dnf/dnf.conf
 echo 'deltarpm=True' | sudo tee -a /etc/dnf/dnf.conf
-echo 'keepcache=True' | sudo tee -a /etc/dnf/dnf.conf
 echo 'defaultyes=True' | sudo tee -a /etc/dnf/dnf.conf
 ```
 
@@ -113,7 +112,7 @@ Apps I use include:
 - **Gaming**: Steam
 - **Multimedia**: [Shortwave][shortwave], Spotify, VLC
 - **Terminal Emulator**: Alacritty (including [nautilus-open-any-terminal] and [starship])
-- **Torrent Client**: qBittorent, Transmission (trying it out as it seems to work better with [adw-gtk3])
+- **Torrent Client**: qBittorent
 - **Utilities**: htop, [Xtreme Download Manager][xdm] (only for YouTube and large downloads)
 - **Others**: Discord, Extension Manager, gThumb, [ProtonVPN][protonvpn-fedora-download], [Solaar][solaar] (for Logitech peripherals)
 
