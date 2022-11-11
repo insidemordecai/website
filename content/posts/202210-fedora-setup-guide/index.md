@@ -112,11 +112,11 @@ Apps I use include:
 - **Gaming**: Steam
 - **Multimedia**: [Shortwave][shortwave], Spotify, VLC
 - **Terminal Emulator**: Alacritty (including [nautilus-open-any-terminal] and [starship])
-- **Torrent Client**: qBittorent
+- **Torrent Client**: Deluge (simple and works well with GTK - qBittorrent was my previous option)
 - **Utilities**: htop, [Xtreme Download Manager][xdm] (only for YouTube and large downloads)
 - **Others**: Discord, Extension Manager, gThumb, [ProtonVPN][protonvpn-fedora-download], [Solaar][solaar] (for Logitech peripherals)
 
-Then remove the extra apps not needed, for me these include totem (GNOME Videos), Firefox (RPM version), GNOME Terminal etc.
+Afterwards, I remove the extra apps thats I don't need, for me these include totem (GNOME Videos), GNOME Weather, Firefox (pre-installed version), GNOME Terminal etc.
 
 Typically I play around with some extensions or have mixed feelings about some (**\***) but these are the extensions that I use from the Extensions Manager app and use:
 
@@ -128,12 +128,10 @@ Typically I play around with some extensions or have mixed feelings about some (
 - GSConnect
 - Night Theme Switcher
 - Rounded Window Corners
-- Sound Input & Output Device Chooser (should be baked into GNOME 43)
 - Status Area Horizontal Spacing
-- User Themes **\***
 
 {{<alert>}}
-I do not recommend installing a lot of extensions as they could slow down your system or worse some could be left unmaintained or lose support across GNOME updates.
+I do not recommend installing a lot of extensions as they could slow down your system or worse some could be left unmaintained/lose support across GNOME updates.
 {{</alert>}}
 
 ## Firefox Tweaks
