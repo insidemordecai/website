@@ -3,8 +3,8 @@
 
 # Hugo generated files
 /public/
-/resources/_gen/assets
-!/resources/_gen/images/
+/resources/_gen/
+hugo_stats.json
 
 # VS Code
 .vscode/*
