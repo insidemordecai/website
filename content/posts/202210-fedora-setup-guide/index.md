@@ -169,6 +169,15 @@ Cheers ✌️
 
 [Featured Image Credits: u/Drostina on Reddit][feature-source]
 
+## Note To Self
+
+The curled scripts below are meant for my personal use. It performs most of the things listed in this article apart from: installing extensions, installing Android Studio, Firefox tweaks, changing GNOME Tweaks, setting up Flutter
+```sh
+curl -s -o- https://raw.githubusercontent.com/insidemordecai/.dotfiles/main/quick-setup/fedora.sh | bash
+curl -s -o- https://raw.githubusercontent.com/insidemordecai/.dotfiles/main/quick-setup/rpm-apps-install.sh | bash
+curl -s -o- https://raw.githubusercontent.com/insidemordecai/.dotfiles/main/quick-setup/flatpaks-install.sh | bash
+```
+
 <!-- Links - place alphabetically -->
 
 [adw-gtk3]: https://github.com/lassekongo83/adw-gtk3 "An unofficial GTK3 port of libadwaita."
