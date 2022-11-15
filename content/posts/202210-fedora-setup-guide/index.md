@@ -146,6 +146,12 @@ That line disables YouTube's scroll-to-comments "feature" which to me is not as 
 
 [Credit: This Reddit comment][reddit-comment-firefox]
 
+I've also noticed that the flatpak version of Firefox does not have two finger swipe by default, run this command to fix that:
+
+```sh
+sudo flatpak override --env=MOZ_ENABLE_WAYLAND=1
+```
+
 ## Setup Coding Environment and Dotfiles
 
 I usually create a directory in `~` called `development` followed by setting up Flutter and saving its SDK in this directory. I also always create another directory in `~` called `programming` to store most of my projects.
