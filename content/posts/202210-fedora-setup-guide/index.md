@@ -72,12 +72,14 @@ sudo dnf install -y curl cabextract xorg-x11-font-utils fontconfig
 sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm
 ```
 
+<!--
 And finally adding, [an alternative to proprietary fonts:][fedora-better-fonts]
 
 ```sh
 sudo dnf copr enable dawid/better_fonts -y
 sudo dnf install fontconfig-font-replacements -y
 ```
+-->
 
 I also add these fonts to `~/.local/share/fonts` since I use them in my terminal emulator and other apps:
 
