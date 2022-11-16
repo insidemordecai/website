@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Mordecai Kipng'etich"
   image = "img/profile.png"
-  headline = "Software and Web Developer"
+  headline = "Software Developer"
   bio = "not from Regular Show"
   links = [
     { email = "mailto:contact@insidemordecai.com"},
