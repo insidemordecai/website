@@ -17,7 +17,7 @@ dateFormat = "2 January 2006"
   headline = "Software Developer"
   bio = "not from Regular Show"
   links = [
-    { email = "mailto:contact@insidemordecai.com"},
+    { envelope = "mailto:contact@insidemordecai.com"},
     { twitter = "https://twitter.com/insidemordecai" },
     { github = "https://github.com/insidemordecai" },
     # { spotify = "https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4"},
