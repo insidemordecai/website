@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
 
 colorScheme = "noir"
-defaultAppearance = "light" # valid options: light or dark
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
@@ -23,7 +23,8 @@ defaultBackgroundImage = "img/background.jpg"
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "background"
+  layoutBackgroundBlur = true
   # homepageImage = "img/background.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
@@ -32,12 +33,11 @@ defaultBackgroundImage = "img/background.jpg"
 
 [article]
   showDate = true
-  #showViews = true
-  #showLikes = true
   showDateUpdated = true
   showAuthor = true
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background
+  heroStyle = "background"
+  layoutBackgroundBlur = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
@@ -45,8 +45,6 @@ defaultBackgroundImage = "img/background.jpg"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
   showReadingTime = true
   showTableOfContents = true
   showTaxonomies = true
@@ -58,6 +56,7 @@ defaultBackgroundImage = "img/background.jpg"
 [list]
   showHero = true
   heroStyle = "background"
+  layoutBackgroundBlur = true
   showBreadcrumbs = false
   showSummary = true
   showTableOfContents = false
