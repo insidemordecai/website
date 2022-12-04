@@ -6,6 +6,8 @@ enableRobotsTXT = true
 paginate = 20
 summaryLength = 30
 
+enableGitInfo = true
+
 buildDrafts = false
 buildFuture = false
 
