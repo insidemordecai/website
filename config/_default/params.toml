@@ -33,7 +33,7 @@ defaultBackgroundImage = "img/background.jpg"
 
 [article]
   showDate = true
-  showViews = true
+  showViews = false
   showLikes = true
   showDateUpdated = true
   showAuthor = true
