@@ -33,6 +33,8 @@ defaultBackgroundImage = "img/background.jpg"
 
 [article]
   showDate = true
+  showViews = false
+  showLikes = true
   showDateUpdated = true
   showAuthor = true
   showHero = true
@@ -58,6 +60,8 @@ defaultBackgroundImage = "img/background.jpg"
   heroStyle = "background"
   layoutBackgroundBlur = true
   showBreadcrumbs = false
+  showViews = false
+  showLikes = false
   showSummary = true
   showTableOfContents = false
   showCards = false
@@ -70,13 +74,13 @@ defaultBackgroundImage = "img/background.jpg"
   showTermCount = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyDCLuiQ-2mwwojhYV0lGEBPeDkqJNpL0A4"
+  authDomain = "insidemordecai.firebaseapp.com"
+  projectId = "insidemordecai"
+  storageBucket = "insidemordecai.appspot.com"
+  messagingSenderId = "228384505712"
+  appId = "1:228384505712:web:30019f365a2979a50259b5"
+  measurementId = "G-CZX2TB59D8"
 
 [fathomAnalytics]
   # site = "ABC12345"
