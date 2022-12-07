@@ -57,6 +57,8 @@ sudo dnf groupupdate sound-and-video
 sudo dnf group upgrade --with-optional Multimedia
 ```
 
+Recently, Fedora removed some hardware accelerated codecs from their default install but the guys at RPM Fusion have done their magic. Head over to the [Multimedia page of RPM Fusion][rpm-fusion-mm] and under the Hardware Accelerated Codec section, pick the command(s) for your setup. For those running Intel 5th Gen (Broadwell) and above pick the `intel-media-driver` option while those running older processors can opt for `libva-intel-driver`. 
+
 For more information, check out the [RPM Fusion][rpm-fusion] website.
 
 ## Add Extra Fonts
@@ -130,7 +132,6 @@ Typically I play around with some extensions or have mixed feelings about some (
 - GSConnect
 - Night Theme Switcher
 - Rounded Window Corners
-- Status Area Horizontal Spacing
 
 {{<alert>}}
 I do not recommend installing a lot of extensions as they could slow down your system or worse some could be left unmaintained/lose support across GNOME updates.
@@ -147,6 +148,12 @@ www.youtube.com##ytd-app:style(overflow: hidden !important;)
 That line disables YouTube's scroll-to-comments "feature" which to me is not as important but used to be to quickly check video publish date.
 
 [Credit: This Reddit comment][reddit-comment-firefox]
+
+By default, hardware acceleration is disabled but head over to `about:config` and toggle this option:
+
+```text
+media.ffmpeg.vaapi.enabled
+```
 
 I've also noticed that the flatpak version of Firefox does not have two finger swipe by default, run this command to fix that:
 
@@ -202,6 +209,7 @@ curl -s -o- https://raw.githubusercontent.com/insidemordecai/.dotfiles/main/quic
 [protonvpn-fedora-download]: https://protonvpn.com/support/official-linux-vpn-fedora/ "ProtonVPN installation guide for Fedora"
 [reddit-comment-firefox]: https://www.reddit.com/r/firefox/comments/lija24/comment/gph104v/?utm_source=share&utm_medium=web2x&context=3 "comment on r/Firefox"
 [rpm-fusion]: https://rpmfusion.org/Configuration "RPM Fusion's Configuration Page"
+[rpm-fusion-mm]: https://rpmfusion.org/Howto/Multimedia "RPM Fusion's Multimedia Page"
 [sf-mono-nf]: https://github.com/epk/SF-Mono-Nerd-Font "Apple's SF Mono font patched with the Nerd Fonts patcher"
 [shortwave]: https://flathub.org/apps/details/de.haeckerfelix.Shortwave "Shortwave is an internet radio player that provides access to a station database with over 25,000 stations."
 [solaar]: https://pwr-solaar.github.io/Solaar/ "Linux Device Manager for Logitech Unifying Receivers and Devices."
