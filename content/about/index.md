@@ -5,6 +5,8 @@ draft: false
 
 showDate: false
 showReadingTime: false
+showViews: false
+showLikes: false
 sharingLinks: false
 showAuthor: false
 showPagination : false
