@@ -2,8 +2,8 @@
 title: How I Created My Site For Free with Hugo and GitHub Pages
 slug: how-i-created-my-site-for-free
 date: 2022-12-26T08:37:27+03:00
-categories: [Static Site Generators, Blog]
-tags: [Hugo, GitHub Pages]
+categories: [Static Site Generators]
+tags: [Hugo, GitHub]
 draft: false
 ---
 
