@@ -7,7 +7,7 @@ tags: [Hugo, GitHub]
 draft: false
 ---
 
-If you are like me, then you've probably wanted to create a personal site but the available options were either expensive or simply not good enough. That was until I learned of static site generators and their simplicity. This blog you are viewing is made using Hugo and hosted on GitHub. 
+If you are like me, then you've probably wanted to create a personal site but the available options were either expensive or simply not good enough. That was until I learnt of static site generators and their simplicity. This blog you are reading is made using Hugo and hosted on GitHub. 
 
 <!--more-->
 
@@ -24,7 +24,7 @@ This part may differ based on your development setup. I'd recommend Chocolatey f
 ## Creating Your New Hugo Site
 
 1. Open your console, navigate to where you want to save your site and run `hugo new site .` to create the site in the current directory. If you'd like to create the site in a new directory, run `hugo new site SITE_NAME`. 
-2. Look for a Hugo theme and setup the site skeleton based on the theme's documentation. I personally use [Blowfish](nunocoracao.github.io/blowfish)
+2. Look for a Hugo theme and setup the site skeleton based on the theme's documentation. I personally use [Blowfish](https://nunocoracao.github.io/blowfish)
 
 I recommend downloading themes as a [Git Submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) as this will make it easier to update them. It's also important to choose a theme with great documentation for your ease of use.
 
@@ -44,7 +44,7 @@ Google as well as your theme's documentation will be your friend from hereon. Yo
 4. Set up GitHub Actions by creating a file in `.github/workflows/gh-pages.yml`. [Copy the content of the file from this section of the Hugo documentation.](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action)
  
    What this does is once GitHub notices changes to your main branch,  it will perform a set of actions to publish your site to `gh-pages` branch.
-5. You're done.
+5. Push the GitHub Actions file and you're done.
 
 Your site is now live at `YOUR_GITHUB_USERNAME.github.io`. If you chose to use a different repository name then your site is live at `YOUR_GITHUB_USERNAME.github.io/REPOSITORY_NAME`
 
