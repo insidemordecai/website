@@ -18,7 +18,7 @@ defaultBackgroundImage = "img/background.jpg"
 
 [footer]
   showCopyright = true
-  showThemeAttribution = false
+  showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -34,8 +34,8 @@ defaultBackgroundImage = "img/background.jpg"
 [article]
   showDate = true
   showViews = false
-  showLikes = true
-  showDateUpdated = true
+  showLikes = false
+  showDateUpdated = false
   showAuthor = true
   showHero = true
   heroStyle = "background"
