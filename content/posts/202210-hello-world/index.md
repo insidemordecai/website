@@ -1,6 +1,8 @@
 ---
 title: Hello World 👋
 slug: hello-world
+summary: A short introduction to mention what I intend to do with this website. Very much like how printing "Hello world" is usually the first thing one learns when they begin programming.
+description: A short introduction to mention what I intend to do with this website. Very much like how printing "Hello world" is usually the first thing one learns when they begin programming.
 date: 2022-10-27T12:00:39+03:00
 tags: [Intro]
 draft: false
@@ -9,8 +11,6 @@ draft: false
 Thank you for passing by. 
 
 This is just a short introduction piece to mention what I intend to do with this website. Very much like how printing "Hello world" is usually the first thing one learns when they begin programming.
-
-<!--more-->
 
 I plan on this being more like a frankenstein of a blog and a portfolio - blogfolio, is that even a word? 🤷‍♂️ It will host articles on things I find interesting around tech including concept breakdowns, Linux and FOSS or how-tos just for my referral in the future and in the process benefit whoever stumbles upon this.
 

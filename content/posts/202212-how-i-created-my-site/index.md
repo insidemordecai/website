@@ -1,6 +1,8 @@
 ---
 title: How I Created My Site For Free with Hugo and GitHub Pages
 slug: how-i-created-my-site-for-free
+summary: Creating a website can seem daunting but in this post we go over how that is easy with the use of Hugo. At the end of it, our site will be live and hosted for free with GitHub Pages.
+description: Creating a website can seem daunting but in this post we go over how that is easy with the use of Hugo. At the end of it, our site will be live and hosted for free with GitHub Pages.
 date: 2022-12-26T08:37:27+03:00
 categories: [Static Site Generators]
 tags: [Hugo, GitHub]
@@ -8,8 +10,6 @@ draft: false
 ---
 
 If you are like me, then you've probably wanted to create a personal site but the available options were either expensive or simply not good enough. That was until I learnt of static site generators and their simplicity. This blog you are reading is made using Hugo and hosted on GitHub. 
-
-<!--more-->
 
 Here is the process:
 1. Installing Hugo 
@@ -32,7 +32,7 @@ I recommend downloading themes as a [Git Submodule](https://git-scm.com/book/en/
 
 At this point we already have a skeleton of a site and we can run `hugo server` at the root of our site. This will also allow us to observe the changes we make and their effect. You can run `hugo server -D` if you want to test out with some draft posts as by default Hugo doesn't show drafts.
 
-Your site is now available at [localhost:1313](https://localhost:1313)
+Your site is now available at [localhost:1313](http://localhost:1313)
 
 Google as well as your theme's documentation will be your friend from hereon. You can check out the exampleSite and other sites that use the same theme for inspiration.
 
