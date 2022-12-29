@@ -1,15 +1,15 @@
 ---
-title: Fedora Linux Setup Guide
+title: Things To Do After Installing Fedora Workstation
 slug: fedora-linux-setup-guide
-summary: These are the things to do after installing Fedora Workstation, from speeding up DNF package manager, enabling RPM Fusion and Flatpak to setting up GNOME. 
-description: These are the things to do after installing Fedora Workstation, from speeding up DNF package manager, enabling RPM Fusion and Flatpak to setting up GNOME. 
+summary: This is how I go about setting up Fedora Linux, from speeding up DNF package manager, enabling RPM Fusion and Flatpak to setting up GNOME. 
+description: This is how I go about setting up Fedora Linux, from speeding up DNF package manager, enabling RPM Fusion and Flatpak to setting up GNOME. 
 date: 2022-10-27T23:05:20+03:00
 categories: [Linux]
 tags: [Fedora, Post Install]
 draft: false
 ---
 
-These are the things to do after installing [Fedora Workstation][fedora], feel free to follow my guide tweaking where necessary.
+This is exactly as the title suggest - setting up [Fedora Workstation][fedora], feel free to follow my guide tweaking where necessary.
 
 ## DNF Configuration
 
