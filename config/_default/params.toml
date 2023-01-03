@@ -42,8 +42,6 @@ defaultBackgroundImage = "img/background.jpg"
   layoutBackgroundBlur = true
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -53,7 +51,7 @@ defaultBackgroundImage = "img/background.jpg"
   showAuthorsBadges = false
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "whatsapp", "reddit", "facebook", "email"]
+  sharingLinks = false
 
 [list]
   showHero = true
