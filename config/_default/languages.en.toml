@@ -8,6 +8,7 @@ rtl = false
 title = "Mordecai Kipng'etich"
 # logo = "img/logo.png"
 description = "Personal Website and Blog | Mordecai Kipng'etich"
+copyright = "No Rights Reserved"
 
 dateFormat = "2 January 2006"
 

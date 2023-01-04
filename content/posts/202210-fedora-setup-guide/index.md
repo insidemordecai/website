@@ -11,6 +11,12 @@ draft: false
 
 This is exactly as the title suggest - setting up [Fedora Workstation][fedora], feel free to follow my guide tweaking where necessary.
 
+![Wallpaper with starry background and the Fedora Logo at the center](img/feature.png)
+<figcaption>
+
+[Credits: u/Drostina on Reddit][feature-source]
+</figcaption>
+
 ## DNF Configuration
 
 By default DNF is slow (maybe DNF5 might change that in the future), to fix that I add these flags to the DNF conf file to speed things up and set yes as the default option for future DNF commands.
@@ -182,7 +188,6 @@ Anyway, feel free to reach out.
 
 Cheers ✌️
 
-[Featured Image Credits: u/Drostina on Reddit][feature-source]
 
 ## Note To Self
 
