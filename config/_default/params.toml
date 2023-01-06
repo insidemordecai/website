@@ -8,6 +8,7 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+disableImageOptimization = true
 defaultBackgroundImage = "img/background.jpg"
 
 # mainSections = ["section1", "section2"]
@@ -65,12 +66,19 @@ defaultBackgroundImage = "img/background.jpg"
   showTableOfContents = false
   showCards = false
   groupByYear = true
+  constrainItemsWidth = true
 
 [sitemap]
   excludedKinds = []
 
 [taxonomy]
   showTermCount = true
+  showHero = true
+  heroStyle = "background"
+
+[term]
+  showHero = true
+  heroStyle = "background"
 
 [firebase]
   apiKey = "AIzaSyDCLuiQ-2mwwojhYV0lGEBPeDkqJNpL0A4"
