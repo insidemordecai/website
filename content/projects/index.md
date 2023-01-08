@@ -3,17 +3,18 @@ title: "Projects"
 date: 2022-10-27T11:54:02+03:00
 draft: false
 
-showDate : false
-showReadingTime : false
+showDate: false
+showReadingTime: false
 showAuthor: false
-showHeadingAnchors : false
-showSummary : false
-sharingLinks : false
-showPagination : false
+showHeadingAnchors: false
+showSummary: false
+showTableOfContents: false
+showTaxonomies: false
+sharingLinks: false
+showPagination: false
 ---
 
 This section outlines some of the projects I have taken on my quest to constantly learn and upskill.
-<!--more-->
 
 <table>
     <thead>
