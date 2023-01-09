@@ -9,7 +9,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 disableImageOptimization = true
-defaultBackgroundImage = "img/background.jpg"
+# defaultBackgroundImage = "img/background.jpg"
 
 # mainSections = ["section1", "section2"]
 # robots = ""
@@ -18,8 +18,8 @@ defaultBackgroundImage = "img/background.jpg"
   layout = "fixed"
 
 [footer]
-  showCopyright = true
-  showThemeAttribution = true
+  showCopyright = false
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -37,7 +37,7 @@ defaultBackgroundImage = "img/background.jpg"
   showViews = false
   showLikes = false
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = true
   heroStyle = "background"
   layoutBackgroundBlur = true
@@ -49,7 +49,7 @@ defaultBackgroundImage = "img/background.jpg"
   showHeadingAnchors = true
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = true
+  showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = false
   showSummary = true
