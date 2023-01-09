@@ -3,7 +3,7 @@ title: Setting up Custom Domains on GitHub Pages
 slug: custom-domains-with-github-pages
 summary: GitHub Pages is helpful in hosting websites and other projects but you may want the domain to show your (or business') personality/professionalism and not use the default github.io domain. Here is how to do so!
 summary: GitHub Pages is helpful in hosting websites and other projects but you may want the domain to show your (or business') personality/professionalism and not use the default github.io domain. Here is how to do so!
-date: 2022-12-29
+date: 2023-01-09
 categories: []
 tags: [GitHub, Custom Domains, Hugo]
 draft: true
