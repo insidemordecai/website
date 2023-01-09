@@ -1,8 +1,8 @@
 ---
 title: How I Created My Site For Free with Hugo and GitHub Pages
 slug: how-i-created-my-site-for-free
-summary: Creating a website can seem daunting but in this post we go over how that is easy with the use of Hugo. At the end of it, our site will be live and hosted for free with GitHub Pages.
-description: Creating a website can seem daunting but in this post we go over how that is easy with the use of Hugo. At the end of it, our site will be live and hosted for free with GitHub Pages.
+summary: Creating a website can seem daunting but in this post we go over how that is easy with the use of Hugo and hosting for free with GitHub Pages.
+description: Creating a website can seem daunting but in this post we go over how that is easy with the use of Hugo and hosting for free with GitHub Pages.
 date: 2022-12-26T08:37:27+03:00
 categories: [Static Site Generators]
 tags: [Hugo, GitHub]

@@ -1,8 +1,8 @@
 ---
 title: Hello World 👋
 slug: hello-world
-summary: A short introduction to mention what I intend to do with this website. Very much like how printing "Hello world" is usually the first thing one learns when they begin programming.
-description: A short introduction to mention what I intend to do with this website. Very much like how printing "Hello world" is usually the first thing one learns when they begin programming.
+summary: A short introduction to mention what I intend to do with this website.
+description: A short introduction to mention what I intend to do with this website.
 date: 2022-10-27T12:00:39+03:00
 tags: [Intro]
 draft: false
