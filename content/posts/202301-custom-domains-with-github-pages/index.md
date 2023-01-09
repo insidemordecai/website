@@ -6,7 +6,7 @@ summary: GitHub Pages is helpful in hosting websites and other projects but you 
 date: 2023-01-09
 categories: []
 tags: [GitHub, Custom Domains, Hugo]
-draft: true
+draft: false
 ---
 
 GitHub Pages publishes your site on a domain that looks like `USERNAME.github.io`. This is all fine and good but you can make it yours by adding a custom domain and still benefit from the free hosting.
