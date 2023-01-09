@@ -24,11 +24,22 @@ Previously I have worked in an IT Support role performing some networking, syste
 
 ## Outside of tech
 
-Outside of tech, I obsessively watch motorsport - mainly Formula 1 (and its feeder series). I also run a car/motorsport blog called Drive Talks found [here][drivetalks]
+Outside of tech, I obsessively watch motorsport - mainly Formula 1 (and its feeder series). I also run a car/motorsport blog called [Drive Talks found here][drivetalks]
 
 In my former years, I did some piano playing and singing - not that I don't sing now but just to the audience of my pet.
 
+## This Site, Privacy and Copyrights
+
+My blog/portfolio has gone through a couple of changes throughout the years. Initially, I coded it with good ol' HTML code, tried WordPress and Medium. Later, I started to use a couple of templates with a mix of HTML and SCSS and various tweaks to suite my style. Currently, this site is built using [Hugo][hugo] static site generator and [Blowfish][blowfish] due to the lightweight nature and the fact I use markdown often.
+
+This site [makes use of only 1 tracker][themarkup] that being Google Web Analytics but I intend to switch to an open-source alternative that is more privacy respecting or even do away with it altogether. No cookies or ads are in place. 
+
+No permission is needed to copy, distribute, or modify the content of this site. Credit is appreciated but not required (unless for commercial purposes).
+
 <!-- organise alphabetically -->
+[blowfish]: https://blowfish.page/ "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 [dart]: https://dart.dev "A client-optimized language for fast apps on any platform"
-[drivetalks]: https://drivetalks.car.blog "A car/motorsport blog "
+[drivetalks]: https://auto.insidemordecai.com "A car/motorsport blog "
 [flutter]: https://flutter.dev "An open-source cross-platform UI software development kit created by Google."
+[hugo]: https://gohugo.io/ "The world’s fastest framework for building websites"
+[themarkup]: https://themarkup.org/blacklight?url=insidemordecai.com " A Real-Time Website Privacy Inspector"

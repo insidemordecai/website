@@ -18,8 +18,8 @@ disableImageOptimization = true
   layout = "fixed"
 
 [footer]
-  showCopyright = true
-  showThemeAttribution = true
+  showCopyright = false
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -37,7 +37,7 @@ disableImageOptimization = true
   showViews = false
   showLikes = false
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = true
   heroStyle = "background"
   layoutBackgroundBlur = true
@@ -49,7 +49,7 @@ disableImageOptimization = true
   showHeadingAnchors = true
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = true
+  showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = false
   showSummary = true
