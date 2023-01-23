@@ -28,9 +28,11 @@ Outside of tech, I obsessively watch motorsport - mainly Formula 1 (and its feed
 
 In my former years, I did some piano playing and singing - not that I don't sing now but just to the audience of my pet.
 
-## This Site, Privacy and Copyrights
+## This Site 
 
 My blog/portfolio has gone through a couple of changes throughout the years. Initially, I coded it with good ol' HTML code, tried WordPress and Medium. Later, I started to use a couple of templates with a mix of HTML and SCSS and various tweaks to suite my style. Currently, this site is built using [Hugo][hugo] static site generator and [Blowfish][blowfish] due to the lightweight nature and the fact I use markdown often.
+
+## Privacy and Copyrights
 
 This site [makes use of only 1 tracker][themarkup] that being Google Web Analytics but I intend to switch to an open-source alternative that is more privacy respecting or even do away with it altogether. No cookies or ads are in place. 
 
