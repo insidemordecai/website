@@ -11,6 +11,9 @@ enableCodeCopy = true
 disableImageOptimization = true
 # defaultBackgroundImage = "img/background.jpg"
 
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 
