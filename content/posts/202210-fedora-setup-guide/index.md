@@ -169,9 +169,7 @@ sudo flatpak override --env=MOZ_ENABLE_WAYLAND=1
 
 ## Setup Coding Environment and Dotfiles
 
-I usually create a directory in `~` called `development` followed by setting up Flutter and saving its SDK in this directory. I also always create another directory in `~` called `programming` to store most of my projects.
-
-Set up Android Studio with this folder in mind as well.
+I usually create a directory in `~` where I set up Flutter and any other SDK in this directory. Afterwards, I create another directory in `~` to store most of my projects.
 
 At this point, I clone my [dotfiles backup][.dotfiles] into `~` and run the script to setup my config files.
 
