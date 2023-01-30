@@ -26,7 +26,7 @@ Here is a collection of other places you can find me online as well as other web
 **Others:**
 
 - [47nil](https://47nil.com), about the author's random thoughts
-- [scottnesbitt](https://scottnesbitt.net/)
+- [scottnesbitt.net](https://scottnesbitt.net/)
 - [Manu](https://manuelmoreale.com/)
 - [Open Source Musings](https://opensourcemusings.com/), a website about free and open source software.
 - [Jake Wiesler](https://www.jakewiesler.com/)
