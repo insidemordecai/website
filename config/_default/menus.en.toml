@@ -26,8 +26,8 @@
  weight = 30
 
 [[main]]
-  name = "Drive Talks"
-  url = "https://auto.insidemordecai.com"
+  name = "Elsewhere"
+  pageRef = "elsewhere"
   weight = 40
 
 # [[main]]
