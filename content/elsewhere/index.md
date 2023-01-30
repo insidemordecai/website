@@ -36,4 +36,4 @@ Here is a collection of other places you can find me online as well as other web
 
 - [mnmlist: minimal web](https://mnmlist.com/w/)
 - [47nil: Digital Minimalism](https://47nil.com/digital.html)
-- [Feeling Stuck is the Creative Process](https://writing.fm/feeling-stuck-is-the-creative-process/)
+- [Writing FM: Feeling Stuck is the Creative Process](https://writing.fm/feeling-stuck-is-the-creative-process/)
