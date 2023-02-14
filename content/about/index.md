@@ -18,19 +18,17 @@ Hi 👋 I'm a Software Developer and a Computer Science graduate.
 
 I'm based in Kenya and I have been shipping code for just over half a decade. I mainly work with front-end web projects but ocassionally dabble in some fullstack development.
 
-In 2019, I learnt [Dart][dart] and consequently started using [Flutter][flutter] in mobile app projects.
-
 Previously I have worked in an IT Support role performing some networking, system administration and maintenance tasks on top of solving the day-to-day issues.
 
 ## Outside of tech
 
-Outside of tech, I obsessively watch motorsport - mainly Formula 1 (and its feeder series). I also run a car/motorsport blog called [Drive Talks found here][drivetalks]
+Outside of tech, I obsessively watch motorsport - mainly Formula 1 (and its feeder series). I also run a car/motorsport blog [found here][drivetalks]
 
 In my former years, I did some piano playing and singing - not that I don't sing now but just to the audience of my pet.
 
 ## This Site 
 
-My blog/portfolio has gone through a couple of changes throughout the years. Initially, I coded it with good ol' HTML code, tried WordPress and Medium. Later, I started to use a couple of templates with a mix of HTML and SCSS and various tweaks to suite my style. Currently, this site is built using [Hugo][hugo] static site generator and [Blowfish][blowfish] due to the lightweight nature and the fact I use markdown often.
+My blog/portfolio has gone through a couple of changes throughout the years. Initially, I coded it with good ol' HTML, tried WordPress and Medium. Later, I started to use a couple of templates with a mix of HTML and SCSS and various tweaks to suite my style. Currently, this site is built using [Hugo][hugo] static site generator and [Blowfish][blowfish] due to the lightweight nature and the fact I use markdown often.
 
 ## Privacy and Copyrights
 
