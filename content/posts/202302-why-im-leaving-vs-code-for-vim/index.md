@@ -3,10 +3,10 @@ title: Why I'm Leaving VS Code for Vim
 slug: why-im-leaving-vs-code-for-vim
 summary: VS Code is already good enough but here's why I'm ditching it.
 description: VS Code is already good enough but here's why I'm ditching it.
-date: 2023-01-27
+date: 2023-02-15
 categories: []
 tags: [Vim, VS Code]
-draft: true
+draft: false 
 ---
 
 My journey has been one where I find a text editor I like and I settle with that. I learnt programming around 2015 but nothing too serious, heck, I used Notepad on Windows. By 2016, I got more into it, discovered [Atom](https://en.wikipedia.org/wiki/Atom_(text_editor)) and immediately fell in love with it.
