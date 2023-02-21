@@ -23,7 +23,6 @@ By default DNF is slow (maybe DNF5 might change that in the future), to fix that
 
 ```sh
 echo 'max_parallel_downloads=10' | sudo tee -a /etc/dnf/dnf.conf
-echo 'fastestmirror=True' | sudo tee -a /etc/dnf/dnf.conf
 echo 'deltarpm=True' | sudo tee -a /etc/dnf/dnf.conf
 echo 'defaultyes=True' | sudo tee -a /etc/dnf/dnf.conf
 ```
@@ -136,7 +135,6 @@ Typically I play around with some extensions or have mixed feelings about some (
 - Clipboard History
 - Dash to Dock **\***
 - GSConnect
-- Night Theme Switcher
 - Rounded Window Corners
 
 {{<alert>}}
