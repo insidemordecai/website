@@ -1,6 +1,6 @@
 ---
-title: Elsewhere
-slug: elsewhere
+title: Links
+slug: links
 date: 2023-01-30T09:51:03+03:00
 categories: []
 tags: []
@@ -19,7 +19,7 @@ Here is a collection of other places you can find me online as well as other web
 
 ## Mine
 
-- [Drive Talks](https://auto.insidemordecai.com), a car/motorsport blog I run.
+- [Drive Talks](https://auto.insidemordecai.com), a car/motorsport blog I run and post on sometimes.
 - [Spotify](https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=52fb320ea0814cd2)
 
 ## Others
@@ -33,6 +33,9 @@ Here is a collection of other places you can find me online as well as other web
 ## Text Playlist
 
 Inspired by [Scott Nesbitt](https://scottnesbitt.net/)
-- [mnmlist: minimal web](https://mnmlist.com/w/)
-- [47nil: Digital Minimalism](https://47nil.com/digital.html)
-- [Writing FM: Feeling Stuck is the Creative Process](https://writing.fm/feeling-stuck-is-the-creative-process/)
+- [minimal web](https://mnmlist.com/w/)
+- [Digital Minimalism](https://47nil.com/digital.html)
+- [Feeling Stuck is the Creative Process](https://writing.fm/feeling-stuck-is-the-creative-process/)
+- [My Coffee Maker Just Makes Coffee](https://bt.ht/one-thing/)
+- [Some Thoughts on Social Media](https://chrishannah.me/some-thoughts-on-social-media-2021-sept/)
+- [Unsolicited blogging advice](https://manuelmoreale.com/unsolicited-blogging-advice)

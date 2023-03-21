@@ -26,8 +26,8 @@
  weight = 30
 
 [[main]]
-  name = "Elsewhere"
-  pageRef = "elsewhere"
+  name = "Links"
+  pageRef = "links"
   weight = 40
 
 # [[main]]
