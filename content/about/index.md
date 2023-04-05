@@ -20,7 +20,7 @@ I'm based in Kenya and I have been shipping code for just over half a decade. I 
 
 Previously I have worked in an IT Support role performing some networking, system administration and maintenance tasks on top of solving the day-to-day issues.
 
-## Outside of tech
+## Outside of Tech
 
 Outside of tech, I obsessively watch motorsport - mainly Formula 1 (and its feeder series). I also run a car/motorsport blog [found here][drivetalks]
 
