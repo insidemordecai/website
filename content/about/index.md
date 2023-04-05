@@ -32,7 +32,7 @@ My blog/portfolio has gone through a couple of changes throughout the years. Ini
 
 ## Privacy and Copyrights
 
-This site [makes use of only 1 tracker][themarkup] that being Google Web Analytics but I intend to switch to an open-source alternative that is more privacy respecting or even do away with it altogether. No cookies or ads are in place. 
+This site makes use of Goatcounter which is an open-source and privacy-friendly web analytics platform. No cookies or ads are in place. 
 
 No permission is needed to copy, distribute, or modify the content of this site. Credit is appreciated but not required (unless for commercial purposes).
 
