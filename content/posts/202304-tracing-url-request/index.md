@@ -1,6 +1,6 @@
 ---
 title: What Happens When You Type 'google.com' Into Your Browser
-slug: tracing-a-url-request
+slug: tracing-url-request
 summary: We trace a URL request from the browser to the server hosting it and its rendering.
 description: We trace a URL request from the browser to the server hosting it and its rendering. 
 date: 2023-04-13T12:20:03+03:00
