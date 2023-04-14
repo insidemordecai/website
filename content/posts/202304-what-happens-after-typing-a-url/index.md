@@ -41,12 +41,6 @@ Most websites have migrated to HTTPS which encrypts the web traffic so if you ha
 
 The DNS request and the 3-way handshake happen again as well as a SSL/TLS handshake. This is a negotiation between two parties on a network to establish the details of their connection. It determines what version of SSL/TLS will be used in the session, which cipher suite will encrypt communication, verifies the server (and sometimes also the client), and establishes that a secure connection is in place before transferring data.
 
-## Browser Renders The Content
-
-Once the browser has received the response from the server, it inspects the response headers for information on how to render the resource.
-
-In the response, there is a `Content-Type` header that tells the browser that resource it has received in the response body. For the case of a HTML file, the browser will render the structure of the page and if it gets other resources such as CSS, JavaScript or images, it will render them accordingly. 
-
 ## Other Concepts To Know
 ### Load Balancer
 
@@ -58,15 +52,46 @@ If a server goes down, traffic is sent ot the remaining servers and if a new ser
 
 ### Web Servers and Application Servers
 
-### Database
+In a typical deployment, a website that provides both static and dynamically generated content runs web servers for the static content and application servers to generate content dynamically. 
 
-## Conclusion
+A web server is a computer program whose fundamental job is to accept and fulfill requests from clients for static content from a website (HTML pages, files, images, video, and so on).
 
-You have successfully landed on `google.com` or any other website after multiple steps that barely takes more than a second. 
+An application server's fundamental job is to provide its clients with access to what is commonly called business logic, which generates dynamic content; that is, it’s code that transforms data to provide the specialized functionality offered by a business, service, or application. 
+
+All in all, the two concepts differ but they are usually deployed together to fulfill the request of a user for a website's content.
+
+For the case of typing `google.com` into your browser, their web server will receive your request and process it, generate a response (static content) and send it back to the user's browser to render the web page. The web server will also get in touch with the application server to generate search results and in some complex cases, it may need to make a request to a database server.
+
+### Database Server
+
+A database server runs a Database Management System (DBMS) and provides database services to clients. Its main role is to receive requests from client machines, search for the required data, and pass back the results. It consists of physical hardware as well as the software that runs the database. 
+
+It is a crucial component in the client-server computing environment where it provides business-critical information requested by the client systems. This information is sent back to the user and their browser will render it. 
+
+## Browser Renders The Content
+
+Once the browser has received the response from the servers, it inspects the response headers for information on how to render the resource.
+
+In the response, there is a `Content-Type` header that tells the browser that resource it has received in the response body. For the case of a HTML file, the browser will render the structure of the page and if it gets other resources such as CSS, JavaScript or images, it will render them accordingly. 
+
+## Summing Up
+
+This is the simplified final flow:
+1. On pressing enter, the browser finds the website's IP address with the help of a DNS server.
+2. The browser then makes a connection with the web server (either directly or through a load balancer) using TCP/IP to send a copy of the website.
+3. All the while, the back and forth communication passes through firewalls and if everything is approved, the servers (web, application and database server) start sending the website's content in small chunks (data packets).
+4. The browser assembles the small chunks and renders the page to the user. 
+
+You have successfully landed on `google.com` or any other website after multiple steps that barely takes more than a second.
 
 ## Resources
 
-- https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html
-- https://www.ssl.com/article/ssl-tls-handshake-overview/
-- https://moz.com/learn/seo/http-status-codes
-- https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/
+Here are some resources for more information:
+
+- [AWS: What happens when you type a URL into your browser?](https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/)
+- [Cisco: What Is a Firewall?](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)
+- [SSL.com: The SSL/TLS Handshake: an Overview](https://www.ssl.com/article/ssl-tls-handshake-overview/)
+- [Moz: HTTP Status Codes](https://moz.com/learn/seo/http-status-codes)
+- [NGINX: What Is Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/)
+- [NGINX: What Is an Application Server vs. a Web Server?](https://www.nginx.com/resources/glossary/application-server-vs-web-server/)
+- [phoenixNAP: What Is a Database Server & What Is It Used For?](https://phoenixnap.com/kb/what-is-a-database-server)
