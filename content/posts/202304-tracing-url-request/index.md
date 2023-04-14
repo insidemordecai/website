@@ -3,11 +3,15 @@ title: What Happens When You Type 'google.com' Into Your Browser
 slug: tracing-url-request
 summary: We trace a URL request from the browser to the server hosting it and its rendering.
 description: We trace a URL request from the browser to the server hosting it and its rendering. 
-date: 2023-04-13T12:20:03+03:00
+date: 2023-04-14
 categories: []
 tags: [DNS Request, Firewall, Load Balancing, 3-Way Handshake, Servers]
-draft: true
+draft: false
 ---
+
+{{< alert "circle-info" >}}
+WIP: This article is mostly complete but left with some final editing
+{{< /alert >}}
 
 Billions of people on earth open their browsers everyday and type their favourite website's URL - be it a social media site or some news outlet. Depending on your internet speed, this might be a matter of milliseconds but have you ever wondered what happens behind the scenes? I'll get into that, hint - it's a lot.
 
