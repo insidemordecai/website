@@ -1,8 +1,8 @@
 ---
 title: Things To Do After Installing Fedora Workstation
 slug: fedora-linux-setup-guide
-summary: This is a beginner friendly way of how I go about setting up Fedora Linux and GNOME. 
-description: This is a beginner friendly way of how I go about setting up Fedora Linux and GNOME. 
+summary: A beginner friendly way of how I go about setting up Fedora Linux and GNOME. 
+description: A beginner friendly way of how I go about setting up Fedora Linux and GNOME. 
 date: 2022-10-27T23:05:20+03:00
 categories: [Linux]
 tags: [Fedora, Post Install]

@@ -1,8 +1,8 @@
 ---
-title: Why I'm Leaving VS Code for Vim
+title: I'm Ditching VS Code
 slug: why-im-leaving-vs-code-for-vim
-summary: VS Code is already good enough but here's why I'm ditching it.
-description: VS Code is already good enough but here's why I'm ditching it.
+summary: VS Code is good enough but here's why I prefer Vim.
+description: VS Code is good enough but here's why I prefer Vim.
 date: 2023-02-15
 categories: []
 tags: [Vim, VS Code]
