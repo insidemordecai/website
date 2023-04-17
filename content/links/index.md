@@ -27,7 +27,6 @@ Here is a collection of other places you can find me online as well as other web
 - [47nil](https://47nil.com), about the author's random thoughts
 - [Manu](https://manuelmoreale.com/)
 - [Open Source Musings](https://opensourcemusings.com/), a website about free and open source software.
-- [Jake Wiesler](https://www.jakewiesler.com/)
 - [Christopher Butler](https://www.chrbutler.com/), thoughts on design and culture evolution.
 
 ## Text Playlist
