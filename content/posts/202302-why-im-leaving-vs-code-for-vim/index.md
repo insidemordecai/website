@@ -13,7 +13,7 @@ My journey has been one where I find a text editor I like and I settle with that
 
 It was marketed towards the kind of person who would tinker with things to suite their needs. Superficially though, I also liked the default colour scheme - One Dark.
 
-Atom was my ride-or-die even though [VS Code](https://code.visualstudio.com/) had gained some traction by now but that was until I joined uni in 2018. I noticed students who were more experienced than I were using VS Code, the least I could do was give it a try. I adopted it and it has been my preferred text editor. So what's changed?
+Atom was my ride-or-die even though [VS Code](https://code.visualstudio.com/) had gained some traction by now but that was until I joined uni in 2018. I noticed students who were more experienced than I was using VS Code, the least I could do was give it a try. I adopted it and it has been my preferred text editor. So what's changed?
 
 ## Why I Still Like VS Code
 
@@ -59,7 +59,7 @@ Currently I use it for most of my projects.
 
 ## Conclusion
 
-So why I'm I leaving VS Code? I like the minimal nature of Vim, the fact it's terminal-based, the endless configuration options and it's just fun.
+So why I'm I ditching VS Code? I like the minimal nature of Vim, the fact it's terminal-based, the endless configuration options and it's just fun. Perhaps ditching is overexaggerating but I will use VS Code way less than I used to. Who knows, I might switch back to it in the far future.
 
 Vim is a great tool but can be very overwhelming with its steep learning curve. The trick is to add things bit by bit as well as understanding what you add to you config rather than blindly copying someone's setup. That being said, here's my dotfiles for inspiration.
 
