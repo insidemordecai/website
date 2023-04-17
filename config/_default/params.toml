@@ -13,6 +13,7 @@ disableImageOptimization = true
 
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
+highlightCurrentMenuArea = true
 
 # mainSections = ["section1", "section2"]
 # robots = ""
