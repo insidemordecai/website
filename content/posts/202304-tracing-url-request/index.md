@@ -9,15 +9,11 @@ tags: [DNS Request, Firewall, Load Balancing, 3-Way Handshake, Servers]
 draft: false
 ---
 
-{{< alert "circle-info" >}}
-WIP: This article is mostly complete but left with some final editing
-{{< /alert >}}
-
 Billions of people on earth open their browsers everyday and type their favourite website's URL - be it a social media site or some news outlet. Depending on your internet speed, this might be a matter of milliseconds but have you ever wondered what happens behind the scenes? I'll get into that, hint - it's a lot.
 
 ## DNS Request
 
-Your browser does not know what 'google.com' is so as soon a you hit enter, it tries to resolve this into an IP address - it does this using a DNS lookup. This is where your browser checks different locations for cached DNS data starting from its own cache, operating system, router and finally the DNS server at your Internet Service Provider (ISP). In the event the IP address of the website you want to visit can't be found, your browser does a recursive DNS lookup where it asks multiple DNS servers around the internet which in turn ask other DNS servers until it gets the DNS record. 
+Your browser does not know what 'google.com' is so as soon a you hit enter, it tries to resolve this into an IP address - it does this using a DNS (Domain Name System) lookup. This is where your browser checks different locations for cached DNS data starting from its own cache, operating system, router and finally the DNS server at your Internet Service Provider (ISP). In the event the IP address of the website you want to visit can't be found, your browser does a recursive DNS lookup where it asks multiple DNS servers around the internet which in turn ask other DNS servers until it gets the DNS record. 
 
 At this point the DNS record is cached so that future requests for the same domain can be resolved more quickly.
 
@@ -25,7 +21,7 @@ At this point the DNS record is cached so that future requests for the same doma
 
 Once the browser sends a request, before it gets to the server it will pass through a firewall.
 
-A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules. This can be hardware, software, software-as-a service (SaaS), public cloud, or private cloud (virtual).
+A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
 
 Its main function is to protect the network from threat actors so when you type `google.com`, the request passes through the firewall on its way to Google's servers where depending on the security rules access may be denied. 
 
@@ -46,7 +42,7 @@ Most websites have migrated to HTTPS which encrypts the web traffic so if you ha
 The DNS request and the 3-way handshake happen again as well as a SSL/TLS handshake. This is a negotiation between two parties on a network to establish the details of their connection. It determines what version of SSL/TLS will be used in the session, which cipher suite will encrypt communication, verifies the server (and sometimes also the client), and establishes that a secure connection is in place before transferring data.
 
 ## Other Concepts To Know
-### Load Balancer
+### Load Balancing
 
 A load balancer sits in front of a server and distributes network traffic across all servers capable of fulfilling those request. It does this through various load balancing methods but its ultimate goal is to ensure no single server is overloaded by maximizing speed and capacity.
 
@@ -54,7 +50,7 @@ It is important to know that it is very likely that the first connection to `goo
 
 If a server goes down, traffic is sent ot the remaining servers and if a new server is added, the load balancer starts sending requests to it.
 
-### Web Servers and Application Servers
+### Web Servers vs. Application Servers
 
 In a typical deployment, a website that provides both static and dynamically generated content runs web servers for the static content and application servers to generate content dynamically. 
 
@@ -76,7 +72,7 @@ It is a crucial component in the client-server computing environment where it pr
 
 Once the browser has received the response from the servers, it inspects the response headers for information on how to render the resource.
 
-In the response, there is a `Content-Type` header that tells the browser that resource it has received in the response body. For the case of a HTML file, the browser will render the structure of the page and if it gets other resources such as CSS, JavaScript or images, it will render them accordingly. 
+In the response, there is a `Content-Type` header that tells the browser which resource it has received in the response body. For the case of a HTML file, the browser will render the structure of the page and if it gets other resources such as CSS, JavaScript or images, it will render them accordingly. 
 
 ## Summing Up
 
@@ -99,3 +95,8 @@ Here are some resources for more information:
 - [NGINX: What Is Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/)
 - [NGINX: What Is an Application Server vs. a Web Server?](https://www.nginx.com/resources/glossary/application-server-vs-web-server/)
 - [phoenixNAP: What Is a Database Server & What Is It Used For?](https://phoenixnap.com/kb/what-is-a-database-server)
+
+{{< alert "circle-info" >}}
+This article was done in fulfillment of an assignment for a Software Engineering course.
+{{< /alert >}}
+
