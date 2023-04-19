@@ -13,11 +13,10 @@ This is exactly as the title suggest - setting up [Fedora Workstation][fedora], 
 
 ## DNF Configuration
 
-By default DNF is slow (maybe DNF5 might change that in the future), to fix that I add these flags to the DNF conf file to speed things up and set yes as the default option for future DNF commands.
+By default DNF is slow (maybe DNF5 might change that in the future), to fix that we shall add a DNF flag to allow more than one download at a time and set yes as the default option for future DNF commands.
 
 ```sh
 echo 'max_parallel_downloads=10' | sudo tee -a /etc/dnf/dnf.conf
-echo 'deltarpm=True' | sudo tee -a /etc/dnf/dnf.conf
 echo 'defaultyes=True' | sudo tee -a /etc/dnf/dnf.conf
 ```
 
@@ -40,7 +39,7 @@ For more information, check out the [RPM Fusion][rpm-fusion] website
 
 ## Enable Flathub
 
-Fedora ships with its version of Flatpak enabled but due to their open-source and licensing policies/ideologies, we need to add [Flathub][flathub] to use their store.
+Older Fedora versions ship with a filtered Flathub enabled,therefore, we need to add [unfiltered Flathub][flathub] to use their store.
 
 ```sh
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
@@ -66,7 +65,7 @@ For more information, check out the [RPM Fusion][rpm-fusion] website.
 sudo dnf install fira-code-fonts 'mozilla-fira*' 'google-roboto*' -y
 ```
 
-Sometimes Microsoft fonts are needed:
+For compatibility, Microsoft fonts may be needed:
 
 ```sh
 sudo dnf install -y curl cabextract xorg-x11-font-utils fontconfig
@@ -93,7 +92,7 @@ If not satisfied, there is always the option of adding fonts into the fonts dire
 
 ## Install GNOME Tweaks
 
-This allows us to make some customization changes like adding/removing Titlebar buttons, changing themes and fonts among other things. I tend to change the Monospace Text font to a Nerd Font.
+This allows us to make some customization changes like adding/removing titlebar buttons (maximize/minimize), changing themes and fonts among other things. I tend to change the Monospace Text font to a Nerd Font.
 
 ```sh
 sudo dnf install gnome-tweaks
@@ -111,9 +110,9 @@ Use [adw-gtk3] as the theme for legacy apps for them to look more cohesive with 
 Apps I use include:
 
 - **Browsers**: Firefox (flatpak version), [Brave Browser][brave]
-- **Coding**: VS Code, [Android Studio][android-studio]
+- **Coding**: VS Code, [Android Studio][android-studio], Neovim
 - **Gaming**: Steam
-- **Multimedia**: [Shortwave][shortwave], Spotify, VLC
+- **Multimedia**: Spotify, VLC, Jellyfin
 - **Terminal Emulator**: Alacritty (including [nautilus-open-any-terminal] and [starship])
 - **Torrent Client**: qBittorrent
 - **Utilities**: htop, [Xtreme Download Manager][xdm] (only for YouTube and large downloads)
@@ -121,18 +120,18 @@ Apps I use include:
 
 Afterwards, I remove the extra apps thats I don't need, for me these include totem (GNOME Videos), GNOME Weather, Firefox (pre-installed version), GNOME Terminal etc.
 
-Typically I play around with some extensions or have mixed feelings about some (**\***) but these are the extensions that I use from the Extensions Manager app and use:
+Typically I play around with some extensions or have mixed feelings about some (**\***) but these are the extensions that I install from the Extensions Manager app and use:
 
 - AppIndicator and KStatusNotifierItem Support
 - Blur my Shell **\***
 - Caffeine
-- Clipboard History
-- Dash to Dock **\***
+- Dash to Dock
 - GSConnect
+- Pano - Clipboard Manager
 - Rounded Window Corners
 
 {{<alert>}}
-I do not recommend installing a lot of extensions as they could slow down your system or worse some could be left unmaintained/lose support across GNOME updates.
+I do not recommend installing a lot of extensions as they could slow down your system or some could be left unmaintained/lose support across GNOME updates.
 {{</alert>}}
 
 ## Firefox Tweaks
