@@ -4,7 +4,7 @@ slug: custom-domains-with-github-pages
 summary: How to switch from GitHub Pages' default github.io domain. 
 description: How to switch from GitHub Pages' default github.io domain. 
 date: 2023-01-09
-categories: []
+categories: [Version Control, Static Site Generators]
 tags: [GitHub, Custom Domains, Hugo]
 draft: false
 ---

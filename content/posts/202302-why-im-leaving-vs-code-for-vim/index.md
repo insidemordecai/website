@@ -4,7 +4,7 @@ slug: why-im-leaving-vs-code-for-vim
 summary: VS Code is good enough but here's why I prefer Vim.
 description: VS Code is good enough but here's why I prefer Vim.
 date: 2023-02-15
-categories: []
+categories: [Text Editors]
 tags: [Vim, VS Code]
 draft: false 
 ---

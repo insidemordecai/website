@@ -4,8 +4,8 @@ slug: fedora-linux-setup-guide
 summary: A beginner friendly way of how I go about setting up Fedora Linux and GNOME. 
 description: A beginner friendly way of how I go about setting up Fedora Linux and GNOME. 
 date: 2022-10-27T23:05:20+03:00
-categories: [Linux]
-tags: [Fedora, Post Install]
+categories: [Operating Systems]
+tags: [Linux, Fedora, Post Install]
 draft: false
 ---
 
