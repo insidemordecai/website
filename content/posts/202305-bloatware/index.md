@@ -6,7 +6,7 @@ description: Cut the bloat and embrace simplicity of default features.
 date: 2023-05-19T09:00:57+03:00
 categories: [Software, Operating Systems]
 tags: [Bloat, Windows]
-draft: true
+draft: false
 ---
 
 For the love of God, please stop installing bloatware on your computer. I have noticed that people have a tendency to install every software they stumble upon, despite the fact that modern operating systems have a lot of features built-in.
