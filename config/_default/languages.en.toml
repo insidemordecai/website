@@ -1,16 +1,16 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
-
 title = "Mordecai Kipng'etich"
-# logo = "img/logo.png"
-description = "Personal Website and Blog | Mordecai Kipng'etich"
-copyright = "No Rights Reserved"
 
-dateFormat = "2 January 2006"
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  description = "Personal Website and Blog | Mordecai Kipng'etich"
+  copyright = "No Rights Reserved"
 
 [author]
   name = "Mordecai Kipng'etich"
