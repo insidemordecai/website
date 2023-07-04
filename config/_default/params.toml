@@ -9,7 +9,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 disableImageOptimization = true
-# defaultBackgroundImage = "img/background.jpg"
+defaultBackgroundImage = "img/background.jpg"
 
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
@@ -19,7 +19,7 @@ highlightCurrentMenuArea = true
 # robots = ""
 
 [header]
-  layout = "fixed-fill"
+  layout = "fixed"
 
 [footer]
   showCopyright = false
@@ -30,7 +30,7 @@ highlightCurrentMenuArea = true
 [homepage]
   layout = "background"
   layoutBackgroundBlur = true
-  # homepageImage = "img/background.jpg" # used in: hero, and card
+  homepageImage = "img/background.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
@@ -63,6 +63,7 @@ highlightCurrentMenuArea = true
   showHero = true
   heroStyle = "background"
   layoutBackgroundBlur = true
+  layoutBackgroundHeaderSpace = true
   showBreadcrumbs = false
   showViews = false
   showLikes = false
