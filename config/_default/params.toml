@@ -8,8 +8,8 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
-disableImageOptimization = true
-defaultBackgroundImage = "img/background.jpg"
+disableImageOptimization = false
+defaultBackgroundImage = "img/background.webp"
 
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
