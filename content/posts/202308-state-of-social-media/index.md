@@ -19,9 +19,9 @@ Google+ came onto the scene and I have to admit that was one of the best platfor
 
 Blogging became a huge thing and I jumped right in. However, one thing I regret is deleting my old blogs. I understand how cathartic that could have been but I have come to appreciate the importance of maintaining an archive where you can revisit your earlier work and perhaps find joy in observing your progress (or lack thereof) over time.
 
-Facebook faced the Cambridge Analytica scandal. December 2018/January 2019 arrived, I deleted most of my accounts but I replaced some with a clear focus on privacy.
+Facebook faced the Cambridge Analytica scandal. I deleted most of my accounts in 2018/19 but I replaced some with a clear focus on privacy.
 
-We circle back to Elon's takeover of Twitter and alternative platforms like Mastodon rise but this time I'm not hasty in joining them. My eyes were on BlueSky - Jack Dorsey's invite-only Twitter alternative. 
+We circle back to Elon's takeover of Twitter and alternative platforms like Mastodon rise but this time I'm not hasty in joining them. 
 
 Meta capitalised on Twitter's issues by launching Threads, and technically, every Instagram user already had an account. Everyone and their dog gave it a try, but to me, it felt like it was launched prematurely. Don't get me wrong, it was great but it lacked a lot of features. Meta wasn't as aggressive as I expected in achieving feature parity with Twitter and building upon that.
 
@@ -29,8 +29,8 @@ During the same week, I got an invite into BlueSky and it was amazing. It was ev
 
 Even with Twitter rebranding to X, it remains the juggernaut that popularised 'microblogging' and it will take a lot for the alternatives to dethrone it. Perhaps Elon himself will do that.
 
-So, what does the future hold? I don't know but juggling between Twitter and its alternatives, along with other platforms can be tiring. Ideally, there would be interoperability between various platforms. 
+So, what does the future hold? I don't know but juggling between Twitter and its alternatives, along with other platforms can be tiring. Ideally, platforms would be interoperable. 
 
 This will likely be a battle between protocols rather than the apps themselves. For example, Mastodon is built on top of ActivityPub, which enjoys support of multiple companies, while BlueSky utilises the AT Protocol.  If one of these protocols (or a new one) gains significant traction then the social networking landscape will change drastically. In theory, we wouldn't be tied to an organisation or a CEO which is quite exciting. Hopefully in the end we don’t all gravitate back towards a centralised platform.
 
-I, for one, hope personal websites make a comeback. A place that can be regarded your home base. 
+I, for one, hope personal websites make a comeback. A place that can be regarded as your home base. 
