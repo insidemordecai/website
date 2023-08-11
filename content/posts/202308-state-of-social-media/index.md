@@ -9,26 +9,28 @@ tags: []
 draft: true
 ---
 
-On 7th October 2022, Elon Musk concluded his purchase of Twitter and it has been quite a journey since then. From introducing Twitter Blue, expensive API changes, daily limit on the number of tweets one can view to rebranding Twitter as X. Reddit has followed a similar script but what can we do?
+On 7th October 2022, Elon Musk concluded his purchase of Twitter and it has been quite a journey since then. Reddit also had a moment of existential crisis but what can we do?
 
-Let's take it to the past, the year is 2012 and my mother has a shiny new phone and so I was excited every time she would come from work. She made it clear that I was not to join Facebook so I'd play games but the app was calling my name. Behind her back, I would join FB and revel at this new world all the while trying to be discreet. This did not last long but surprisingly I was not scolded. We had a talk of how I should use it and it was free reign from there.
+Let's take it back: the year is 2012, and my mother has a shiny new phone which I was glued to it. Behind her back, I joined Facebook and revelled in this new world, all the while trying to be discreet. This did not last long, but surprisingly, I was not scolded. We had a talk of how I should use it and it was free rein from there.
 
-Cue in a spree of joining every social media platform imaginable. It was love at first sight when in 2013, I created my first Twitter account. Shows like iCarly brought forth the bad habit of tweeting every minute and to this day I still get tagged in these old cringe tweets. 
+Cue in a spree of joining every imaginable social media platform. It was love at first sight when I created my first Twitter account in 2013. TV shows of the period instilled the bad habit of tweeting every minute, and to this day, I still get tagged in those old cringe tweets. 
 
-Google+ came in the scene and I have to admit that was one of the best platforms alongside Twitter if not the best.
+Google+ came onto the scene and I have to admit that was one of the best platforms, alongside Twitter, if not the best.
 
-Blogging became a huge thing and I jumped right in. However, one thing I regret is deleting my old blogs. I understand how cathartic that could have been but I have come to learn of the importance of having an archive where you can look at your older work and perhaps delight in your improvement (or lack of) over time.
+Blogging became a huge thing and I jumped right in. However, one thing I regret is deleting my old blogs. I understand how cathartic that could have been but I have come to appreciate the importance of maintaining an archive where you can revisit your earlier work and perhaps find joy in observing your progress (or lack thereof) over time.
 
-Facebook had the Cambridge Analytica scandal. December 2018/January 2019 came, I deleted most of my online accounts but created new ones where necessary with a clear privacy stance in mind.
+Facebook faced the Cambridge Analytica scandal. December 2018/January 2019 arrived, I deleted most of my accounts but I replaced some with a clear focus on privacy.
 
-We get back to Elon taking over Twitter and soon other alternative platforms like Mastodon rise but this time I'm not too quick in joining them. My eyes were on BlueSky - Jack Dorsey's invite-only Twitter alternative. 
+We circle back to Elon's takeover of Twitter and alternative platforms like Mastodon rise but this time I'm not hasty in joining them. My eyes were on BlueSky - Jack Dorsey's invite-only Twitter alternative. 
 
-Meta capitalised on Twitter's issues by launching Threads and technically every Instagram user already had an account. Everyone and their dog tried it out but to me it felt like it was launched prematurely. Don't get me wrong, it was great but it lacked a lot of features. Meta was not as aggressive as I expected in having feature parity with Twitter.
+Meta capitalised on Twitter's issues by launching Threads, and technically, every Instagram user already had an account. Everyone and their dog gave it a try, but to me, it felt like it was launched prematurely. Don't get me wrong, it was great but it lacked a lot of features. Meta wasn't as aggressive as I expected in achieving feature parity with Twitter and building upon that.
 
-During the same week, I got an invite into BlueSky and it was amazing. It was everything I hoped for albeit the userbase was minuscule. It had and still has the vibe of Twitter from the early days.
+During the same week, I got an invite into BlueSky and it was amazing. It was everything I had hoped for albeit the userbase was minuscule. It had, and still has, the same vibe as Twitter in its early days.
 
-Twitter, even with the rebranding, is still the juggernaut that brought 'microblogging' to the masses and it will take a lot for the alternatives to bring it down or Elon himself.
+Even with Twitter rebranding to X, it remains the juggernaut that popularised 'microblogging' and it will take a lot for the alternatives to dethrone it. Perhaps Elon himself will do that.
 
-So what's the future? I don't know but juggling between Twitter and its alternatives as well as other platforms can be tiring. Ideally there would be interoperability between different platforms.  
+So, what does the future hold? I don't know but juggling between Twitter and its alternatives, along with other platforms can be tiring. Ideally, there would be interoperability between various platforms. 
 
-This may come down to a battle of protocols but I, for one, hope personal websites make a comeback. A place that can be regarded your home base. 
+This will likely be a battle between protocols rather than the apps themselves. For example, Mastodon is built on top of ActivityPub, which enjoys support of multiple companies, while BlueSky utilises the AT Protocol.  If one of these protocols (or a new one) gains significant traction then the social networking landscape will change drastically. In theory, we wouldn't be tied to an organisation or a CEO which is quite exciting. Hopefully in the end we don’t all gravitate back towards a centralised platform.
+
+I, for one, hope personal websites make a comeback. A place that can be regarded your home base. 
