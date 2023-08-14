@@ -15,7 +15,7 @@ sharingLinks: false
 showPagination: false
 ---
 
-Here is a collection of other places you can find me online as well as other websites/articles I find interesting. These are mainly places I find inspiration from or tend to reference a lot.
+Here is a collection of other places you can find me and websites/articles I find interesting. These are mainly places I find inspiration from or tend to reference a lot.
 
 ## Mine
 
@@ -25,9 +25,10 @@ Here is a collection of other places you can find me online as well as other web
 ## Others
 
 - [47nil](https://47nil.com), about the author's random thoughts
-- [Manu](https://manuelmoreale.com/)
+- [Manu Moreale](https://manuelmoreale.com/)
 - [Open Source Musings](https://opensourcemusings.com/), a website about free and open source software.
 - [Christopher Butler](https://www.chrbutler.com/), thoughts on design and culture evolution.
+- [Eric Murphy](https://ericmurphy.xyz), posts about the web, Linux, minimal sites and other topics.
 
 ## Text Playlist
 

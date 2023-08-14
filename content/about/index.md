@@ -16,9 +16,9 @@ Hi 👋 I'm a Software Developer and a Computer Science graduate.
 
 ## What I do
 
-I'm based in Kenya and I have been shipping code for just over half a decade. I mainly work with front-end web projects but ocassionally dabble in some fullstack development.
+I'm based in Kenya and I have been shipping code for just over half a decade. I mainly work with Front-End web projects but ocassionally dabble in some Fullstack development.
 
-Previously I have worked in an IT Support role performing some networking, system administration and maintenance tasks on top of solving the day-to-day issues.
+Previously I have worked in an IT Support role performing some networking configuration and administration, system administration and maintenance tasks on top of solving the day-to-day issues.
 
 ## Outside of Tech
 
@@ -28,7 +28,7 @@ In my former years, I did some piano playing and singing - not that I don't sing
 
 ## This Site 
 
-My blog/portfolio has gone through a couple of changes throughout the years. Initially, I coded it with good ol' HTML, tried WordPress and Medium. Later, I started to use a couple of templates with a mix of HTML and SCSS and various tweaks to suite my style. Currently, this site is built using [Hugo][hugo] static site generator and [Blowfish][blowfish] due to the lightweight nature and the fact I use markdown often.
+My blog/portfolio has gone through a couple of changes throughout the years. Initially, I made it with good ol' HTML, tried WordPress, Blogger and Medium. Later, I started to use a couple of templates and making tweaks to suite my style. Currently, this site is built using [Hugo][hugo] static site generator and [Blowfish][blowfish]. 
 
 ## Privacy and Copyrights
 
