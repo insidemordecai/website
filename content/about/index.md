@@ -32,7 +32,9 @@ My blog/portfolio has gone through a couple of changes throughout the years. Ini
 
 ## Privacy and Copyrights
 
-This site makes use of Goatcounter which is an open-source and privacy-friendly web analytics platform. No cookies or ads are in place. 
+This site makes use of GoatCounter which is an open-source and privacy-friendly web analytics platform. No cookies or ads are in place.
+
+_**Update [15 August 2023]:** Been having an issue with analytics since 03 July 2023, temporarily using Cloudflare Web Analytics as Cloudflare is my domain management platform._
 
 No permission is needed to copy, distribute, or modify the content of this site. Credit is appreciated but not required (unless for commercial purposes).
 
