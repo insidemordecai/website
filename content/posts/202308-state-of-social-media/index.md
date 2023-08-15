@@ -27,9 +27,9 @@ Meta capitalised on Twitter's issues by launching Threads, and technically, ever
 
 During the same week, I got an invite into [BlueSky](https://blueskyweb.xyz/blog/6-13-2023-what-is-bluesky) and it was amazing. It was everything I had hoped for albeit the userbase was minuscule. It had, and still has, the same vibe as Twitter in its early days.
 
-Will these alternatives dethrone Twitter? Unlikely. Twitter remains the juggernaut that popularised 'microblogging' and it will take a lot to bring it down. Perhaps Elon himself will do that.
+**Will these alternatives dethrone Twitter?** Unlikely. Twitter remains the juggernaut that popularised 'microblogging' and it will take a lot to bring it down. Perhaps Elon himself will do that.
 
-So, what does the future hold? I don't know but juggling between Twitter and its alternatives, along with other platforms can be tiring. Ideally, platforms would be interoperable. 
+**So, what does the future hold?** I don't know but juggling between Twitter and its alternatives, along with other platforms can be tiring. Ideally, platforms would be interoperable. 
 
 This will likely be a battle between protocols rather than the apps themselves. For example, Mastodon is built on top of [ActivityPub](https://www.theverge.com/2023/4/20/23689570/activitypub-protocol-standard-social-network), which enjoys support of multiple companies, while BlueSky utilises the [AT Protocol](https://atproto.com/).  If one of these protocols (or a new one) gains significant traction then the social networking landscape will change drastically. In theory, we wouldn't be tied to an organisation or a CEO which is quite exciting. Hopefully in the end we don’t all gravitate back towards a centralised platform.
 
