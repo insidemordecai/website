@@ -4,8 +4,8 @@ slug: tracing-url-request
 summary: We trace a URL request from the browser to the server and its rendering.
 description: We trace a URL request from the browser to the server and its rendering. 
 date: 2023-04-14
-categories: [Networking]
-tags: [DNS Request, Firewall, Load Balancing, 3-Way Handshake, Servers]
+categories: [Technical, Web]
+tags: [Networking, DNS Request, Firewall, Load Balancing]
 draft: false
 ---
 

@@ -4,8 +4,8 @@ slug: how-i-created-my-site-for-free
 summary: In this post we go over the ease of creating a site using Markdown
 description: In this post we go over the ease of creating a site using Markdown
 date: 2022-12-26T08:37:27+03:00
-categories: [Version Control, Static Site Generators]
-tags: [Hugo, GitHub]
+categories: [Technical]
+tags: [Static Site Generators, Hugo, GitHub, GitHub Pages]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ slug: switched-to-cloudflare-pages
 summary: This website has migrated from GitHub Pages to Cloudflare Pages
 description: This website has migrated from GitHub Pages to Cloudflare Pages
 date: 2023-08-17T08:48:13+03:00
-categories: []
+categories: [Updates]
 tags: [Cloudflare Pages]
 draft: true
 ---

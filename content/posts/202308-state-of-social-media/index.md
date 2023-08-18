@@ -4,8 +4,8 @@ slug: state-of-social-media
 summary: Here's my social media story and my hope for it's future.
 description: Here's my social media story and my hope for it's future.
 date: 2023-08-14T09:50:00+03:00
-categories: [Social Media, Social Networking Protocol]
-tags: [Twitter, BlueSky, Threads, Mastodon, ActivityPub, AT Protocol]
+categories: [Opinion, Web]
+tags: [Social Media, Social Networking Protocol, ActivityPub, AT Protocol]
 draft: false
 ---
 

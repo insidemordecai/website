@@ -4,7 +4,8 @@ slug: hello-world
 summary: A short introduction to mention what I intend to do with this website.
 description: A short introduction to mention what I intend to do with this website.
 date: 2022-10-27T12:00:39+03:00
-tags: [Intro]
+categories: [Updates]
+tags: []
 draft: false
 ---
 

@@ -4,8 +4,8 @@ slug: bloatware
 summary: Cut the bloat and embrace simplicity of default features.
 description: Cut the bloat and embrace simplicity of default features.
 date: 2023-05-19T09:00:57+03:00
-categories: [Software, Operating Systems]
-tags: [Bloat, Windows]
+categories: [Opinion]
+tags: [Software, Operating Systems, Windows]
 draft: false
 ---
 
