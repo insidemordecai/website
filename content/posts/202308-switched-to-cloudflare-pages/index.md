@@ -3,10 +3,10 @@ title: Switched to Cloudflare Pages
 slug: switched-to-cloudflare-pages
 summary: This website has migrated from GitHub Pages to Cloudflare Pages
 description: This website has migrated from GitHub Pages to Cloudflare Pages
-date: 2023-08-17T08:48:13+03:00
+date: 2023-08-18
 categories: [Updates]
 tags: [Cloudflare Pages]
-draft: true
+draft: false
 ---
 
 For about a month, this website was not sending data to [GoatCounter - an open source web analytics platform](https://www.goatcounter.com/). I managed to resolve this but the rabbit hole led me to rediscover [Cloudflare Pages](https://pages.cloudflare.com).
