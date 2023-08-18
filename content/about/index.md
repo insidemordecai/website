@@ -34,7 +34,7 @@ My blog/portfolio has gone through a couple of changes throughout the years. Ini
 
 This site makes use of GoatCounter which is an open-source and privacy-friendly web analytics platform. No cookies or ads are in place.
 
-No permission is needed to copy, distribute, or modify the content of this site. Credit is appreciated but not required (unless for commercial purposes).
+This site is licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This implies you are free to utilise the content found here in its current form, as part of a remix or mashup, or as a basis of new creations. Remember to provide appropriate credit to me and refrain from using it for commercial intents. 
 
 <!-- organise alphabetically -->
 [blowfish]: https://blowfish.page/ "A powerful, lightweight theme for Hugo built with Tailwind CSS."
