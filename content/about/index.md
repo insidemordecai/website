@@ -18,7 +18,7 @@ Hi 👋 I'm a Software Developer and a Computer Science graduate.
 
 I'm based in Kenya and I have been shipping code for just over half a decade. I mainly work with Front-End web projects but ocassionally dabble in some Fullstack development.
 
-Previously I have worked in an IT Support role performing some networking configuration and administration, system administration and maintenance tasks on top of solving the day-to-day issues.
+Previously I have worked in an IT Support role performing some network configuration and administration, system administration and maintenance tasks on top of solving day-to-day issues.
 
 ## Outside of Tech
 
@@ -34,7 +34,7 @@ My blog/portfolio has gone through a couple of changes throughout the years. Ini
 
 This site makes use of GoatCounter which is an open-source and privacy-friendly web analytics platform. No cookies or ads are in place.
 
-This site is licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This implies you are free to utilise the content found here in its current form, as part of a remix or mashup, or as a basis of new creations. Remember to provide appropriate credit to me and refrain from using it for commercial intents. 
+You are welcome to use any content of this website provided you give appropriate credit to me and refrain from using it for commercial purposes as this site is licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 
 <!-- organise alphabetically -->
 [blowfish]: https://blowfish.page/ "A powerful, lightweight theme for Hugo built with Tailwind CSS."
