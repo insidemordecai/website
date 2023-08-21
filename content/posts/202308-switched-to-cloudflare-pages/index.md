@@ -13,12 +13,12 @@ For about a month, this website was not sending data to [GoatCounter - an open s
 
 **I still love and recommend GitHub Pages**, with a simple GitHub Action you can deploy your project and even [make use of custom domains]({{<ref "posts/202301-custom-domains-with-github-pages/index.md" >}}).
 
-Anyway, for my use case, the top alternatives were Cloudflare Pages and [Netlify](https://www.netlify.com/). I currently manage domains on Cloudflare making it the obvious choice. Who knows, I might switch to Netlify in the future but time will tell.  
+Anyway, for my use case, the top alternatives were Cloudflare Pages and [Netlify](https://www.netlify.com/). I currently manage domains on Cloudflare making it the obvious choice. 
 
 Some of **the benefits of Cloudflare Pages** include:
 - Fast site performance on the Cloudflare network.
 - Easy to add a custom domain especially so if you use Cloudflare for domain management. 
-- Free universal SSL certificate with any plan.
+- Free SSL certificate with any plan.
 - Ability to have preview deployments before rolling to production.
 
 The process of switching over was smooth. I connected Cloudflare Pages with my Git repository, set up build settings (just selecting Hugo as my framework) and deployed it. **That easy!** In my case, to setup a custom domain, Cloudflare simply added the necessary DNS records automatically.
