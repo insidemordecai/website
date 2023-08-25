@@ -14,7 +14,8 @@ buildFuture = false
 # googleAnalytics = "G-R5NDGF0KV2"
 
 [permalinks]
-  posts = '/:slug/' # for cleaner links and avoiding broken links on backlinks
+  posts = '/:slug/' # for cleaner links
+  attic = '/:slug/'
 
 [imaging]
   anchor = 'Center'
