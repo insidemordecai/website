@@ -12,23 +12,25 @@ showAuthor: false
 showPagination : false
 ---
 
-Hi 👋 I'm a Software Developer and a Computer Science graduate.
+Hi 👋 I'm a Business Advisor at [Odoo](https://odoo.com), a freelance Software Developer and a Computer Science graduate.
 
 ## What I do
 
-I'm based in Kenya and I have been shipping code for just over half a decade. I mainly work with Front-End web projects but ocassionally dabble in some Fullstack development.
+I'm based in Kenya and in my day-to-day role as a Business Advisor, I work with various clients across Africa helping them understand and implement Odoo to streamline and automate their business. Odoo is a Belgian software company that specialises in Enterprise Resource Planning (ERP), you can learn more about Odoo at [odoo.com](https://odoo.com)
+
+I have also been shipping code for just over half a decade. I mainly work with Front-End web projects but ocassionally dabble in some Fullstack development.
 
 Previously I have worked in an IT Support role performing some network configuration and administration, system administration and maintenance tasks on top of solving day-to-day issues.
 
-## Outside of Tech
+## Outside of Work
 
-Outside of tech, I obsessively watch motorsport - mainly Formula 1 (and its feeder series). I also run a car/motorsport blog [found here][drivetalks]
+I obsessively watch motorsport - mainly Formula 1 (and its feeder series). I also run a car/motorsport blog [found here][drivetalks]
 
 In my former years, I did some piano playing and singing - not that I don't sing now but just to the audience of my pet.
 
 ## This Site 
 
-My blog/portfolio has gone through a couple of changes throughout the years. Initially, I made it with good ol' HTML, tried WordPress, Blogger and Medium. Later, I started to use a couple of templates and making tweaks to suite my style. Currently, this site is built using [Hugo][hugo] static site generator and [Blowfish][blowfish]. 
+My blog/portfolio has gone through a couple of changes throughout the years. Initially, I made it with WordPress, then good ol' HTML, Blogger and Medium. Later, I started to use a couple of templates and making tweaks to suite my style. Currently, this site is built using [Hugo][hugo] static site generator and [Blowfish][blowfish]. 
 
 ## Privacy and Copyrights
 
