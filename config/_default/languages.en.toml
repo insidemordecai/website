@@ -15,7 +15,7 @@ title = "Mordecai Kipng'etich"
 [author]
   name = "Mordecai Kipng'etich"
   image = "img/profile.png"
-  headline = "Business Advisor @ Odoo • Software Developer"
+  headline = "Business Advisor @ Odoo"
   bio = "not from Regular Show"
   links = [
     { email = "mailto:mordecai@insidemordecai.com"},
