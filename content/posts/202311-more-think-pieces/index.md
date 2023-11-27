@@ -13,4 +13,4 @@ Some of you might have noticed that I'm gradually shifting the tone and style of
 
 I may include a few technical articles occasionally but not too often. Additionally, I might explore other topics of interest.
 
-I don't want to box myself into a small corner, considering that my life has been anything but that. Looking at Manu Moreale's blog and 47nil among others, I've come to appreciate the freedom to write as little as a one-liner, a paragraph, or something longer, without feeling compelled to reach a certain length.
+I don't want to box myself into a small corner, considering that my life has been anything but that. Looking at [Manu Moreale's blog](https://manuelmoreale.com) and [47nil](https://47nil.com) among others, I've come to appreciate the freedom to write as little as a one-liner, a paragraph, or something longer, without feeling compelled to reach a certain length.
