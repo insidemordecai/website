@@ -1,5 +1,5 @@
 ---
-title: More Think Pieces
+title: Less Technical, More Think Pieces
 slug: more-think-pieces
 summary: update on the evolution of my blog
 description: update on the evolution of my blog
