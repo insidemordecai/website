@@ -16,7 +16,7 @@ Hi 👋 I'm a Business Advisor at [Odoo](https://odoo.com), a freelance Software
 
 ## What I do
 
-I'm based in Kenya and as a Business Advisor at Odoo, I work with clients across Africa helping them to understand and implement our software. Odoo is a Belgian software company that aims to streamline business through software, you can learn more at [odoo.com](https://odoo.com)
+I'm based in Kenya and as a Business Advisor, I work with clients across Africa helping them to understand and implement our software. Odoo is a Belgian software company that aims to streamline business through software, you can learn more at [odoo.com](https://odoo.com)
 
 I have also been shipping code for just over half a decade. I mainly work with Front-End web projects but ocassionally dabble in some Fullstack development.
 
