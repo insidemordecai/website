@@ -16,15 +16,17 @@ Hi 👋 I'm a Business Advisor at [Odoo](https://odoo.com), a freelance Software
 
 ## What I do
 
-I'm based in Kenya and in my day-to-day role as a Business Advisor, I work with various clients across Africa helping them understand and implement Odoo to streamline and automate their business. Odoo is a Belgian software company that specialises in Enterprise Resource Planning (ERP), you can learn more about Odoo at [odoo.com](https://odoo.com)
+I'm based in Kenya and as a Business Advisor at Odoo, I work with clients across Africa helping them to understand and implement our software. Odoo is a Belgian software company that aims to streamline business through software, you can learn more at [odoo.com](https://odoo.com)
 
 I have also been shipping code for just over half a decade. I mainly work with Front-End web projects but ocassionally dabble in some Fullstack development.
 
-Previously I have worked in an IT Support role performing some network configuration and administration, system administration and maintenance tasks on top of solving day-to-day issues.
+Previously I have worked in IT Support performing some network configuration and administration, system administration and maintenance tasks on top of solving day-to-day issues.
 
 ## Outside of Work
 
-I obsessively watch motorsport - mainly Formula 1 (and its feeder series). I also run a car/motorsport blog [found here][drivetalks]
+I obsessively watch motorsport - mainly Formula 1 (and its feeder series) and run a car/motorsport blog [found here][drivetalks].
+
+I also read books when I can, you can have a look at my [Goodreads profile](https://www.goodreads.com/insidemordecai/).
 
 In my former years, I did some piano playing and singing - not that I don't sing now but just to the audience of my pet.
 

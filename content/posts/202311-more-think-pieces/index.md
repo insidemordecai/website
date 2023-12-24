@@ -1,8 +1,8 @@
 ---
 title: Less Technical, More Think Pieces
 slug: more-think-pieces
-summary: Update on the evolution of my blog
-description: Update on the evolution of my blog
+summary: Update on the evolution of this website
+description: Update on the evolution of this website
 date: 2023-11-27T18:03:23+03:00
 categories: [Updates]
 tags: []
