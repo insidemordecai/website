@@ -11,6 +11,8 @@ enableGitInfo = true
 buildDrafts = false
 buildFuture = false
 
+enableEmoji = true
+
 # googleAnalytics = "G-R5NDGF0KV2"
 
 [permalinks]
