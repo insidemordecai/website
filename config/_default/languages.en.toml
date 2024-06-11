@@ -18,8 +18,9 @@ title = "Mordecai Kipng'etich"
   headline = "Software Developer | Tech Enthusiast"
   bio = "not from Regular Show"
   links = [
-    { email = "mailto:mordecai@insidemordecai.com"},
+    { email = "mailto:mk@insidemordecai.com"},
     { x-twitter = "https://twitter.com/insidemordecai" },
+    { threads = "https://www.threads.net/insidemordecai"},
     { github = "https://github.com/insidemordecai" },
     # { spotify = "https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4"},
     { linkedin = "https://www.linkedin.com/in/insidemordecai" },
