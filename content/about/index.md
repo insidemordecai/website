@@ -12,7 +12,7 @@ showAuthor: false
 showPagination : false
 ---
 
-Hi 👋 I'm a Software Developer and a Computer Science graduate.
+Hi 👋 I'm a Software Developer and a Computer Science graduate based in Kenya.
 
 ## What I do
 
