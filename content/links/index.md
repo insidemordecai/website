@@ -22,7 +22,7 @@ Here is a collection of other places you can find me and websites/articles I fin
 - [Drive Talks](https://auto.insidemordecai.com), a car/motorsport blog I run and post on sometimes.
 - [Spotify](https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=52fb320ea0814cd2)
 
-## Others
+## Other Websites
 
 - [47nil](https://47nil.com), about the author's random thoughts
 - [Manu Moreale](https://manuelmoreale.com/)
@@ -35,7 +35,7 @@ Here is a collection of other places you can find me and websites/articles I fin
 Inspired by [Scott Nesbitt](https://scottnesbitt.net/)
 - [minimal web](https://mnmlist.com/w/)
 - [Digital Minimalism](https://47nil.com/digital.html)
-- [Feeling Stuck is the Creative Process](https://writing.fm/feeling-stuck-is-the-creative-process/)
-- [My Coffee Maker Just Makes Coffee](https://bt.ht/one-thing/)
+- [Feeling Stuck is the Creative Process](https://writing.fm/stuck)
+- [My Coffee Maker Just Makes Coffee](https://btxx.org/posts/one-thing/)
 - [Some Thoughts on Social Media](https://chrishannah.me/some-thoughts-on-social-media-2021-sept/)
 - [Unsolicited blogging advice](https://manuelmoreale.com/unsolicited-blogging-advice)
