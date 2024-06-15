@@ -9,7 +9,7 @@ tags: [Electric Vehicles]
 draft: false
 ---
 
-Recently, The Verge had this headline about the EU imposing more tariffs on Chinese electric vehicles (EVs). This mirrors similar actions by the US and  to me, it screams of hypocrisy. 
+Recently, The Verge had [this headline](https://www.theverge.com/2024/6/12/24176871/eu-additional-tariffs-chinese-ev-imports) about the EU imposing more tariffs on Chinese electric vehicles (EVs). This mirrors similar actions by the US and  to me, it screams of hypocrisy. 
 
 On one hand, Western countries preach free trade yet these tariffs clearly contradict that. I know this might be to protect their local markets/companies but what irks me the most is this is particularly something that hinders the global effort towards tackling climate change. 
 
