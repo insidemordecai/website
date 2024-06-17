@@ -24,7 +24,7 @@ highlightCurrentMenuArea = true
 [footer]
   showCopyright = false
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false 
   showScrollToTop = true
 
 [homepage]
