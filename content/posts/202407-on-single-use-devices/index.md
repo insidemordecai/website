@@ -6,7 +6,7 @@ description: Thoughts about the appeal of dedicated gadgets in a smartphone era
 date: 2024-07-23T12:00:00+03:00
 categories: [Opinion]
 tags: []
-draft: true
+draft: false 
 ---
 
 Recently, I find myself watching and reading materials on single-use devices. My YouTube home page is filled with videos about iPods, e-readers, feature phones, and other similar devices.
@@ -26,3 +26,12 @@ I think the popularity of these devices will continue increasing as more and mor
 I never thought I’d be the one to enjoy this regression back to the mid-2000s, but I kinda like it. A feature phone for calls, messages, MPESA, and basic functionality, iPods for music, e-readers for reading, a camera for photography. 
 
 While we’re at that, can someone make a feature phone with decent Spotify and a proper digital-to-analog converter (DAC)? Please!
+
+## Digging The Greats iPod Miniseries 
+
+From time to time, I watch videos by [Digging The Great](https://www.youtube.com/@diggingthegreats) and he just started this 4-part miniseries of his experience listening to music on just an iPod for a month. The first video is what made me want to make this post of what's been on my mind and as such I also recommend watching the miniseries. I will update this post with links to the remaining videos in the series.
+
+1. [Using This iPod For 30 Days Changed My Life
+](https://youtu.be/Ou2dW4qebbw)
+2. [The REAL Reason Algorithms are Bad For Culture (iPod Week 2)
+](https://youtu.be/t9TZh0oNAHQ)
