@@ -1,8 +1,8 @@
 ---
 title: On Single-Use Devices
 slug: on-single-use-devices
-summary: Thoughts about the appeal of dedicated gadgets in a smartphone era
-description: Thoughts about the appeal of dedicated gadgets in a smartphone era
+summary: Thoughts on the appeal of dedicated gadgets in a smartphone era
+description: Thoughts on the appeal of dedicated gadgets in a smartphone era
 date: 2024-08-07T12:00:00+03:00
 categories: [Opinion]
 tags: []
