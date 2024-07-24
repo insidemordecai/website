@@ -3,10 +3,10 @@ title: On Single-Use Devices
 slug: on-single-use-devices
 summary: Thoughts about the appeal of dedicated gadgets in a smartphone era
 description: Thoughts about the appeal of dedicated gadgets in a smartphone era
-date: 2024-07-23T12:00:00+03:00
+date: 2024-08-07T12:00:00+03:00
 categories: [Opinion]
 tags: []
-draft: false 
+draft: true 
 ---
 
 Recently, I find myself watching and reading materials on single-use devices. My YouTube home page is filled with videos about iPods, e-readers, feature phones, and other similar devices.
