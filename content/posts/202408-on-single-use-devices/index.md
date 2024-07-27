@@ -29,9 +29,10 @@ While we’re at that, can someone make a feature phone with decent Spotify and 
 
 ## Digging The Greats iPod Miniseries 
 
-From time to time, I watch videos by [Digging The Great](https://www.youtube.com/@diggingthegreats) and he just started this 4-part miniseries of his experience listening to music on just an iPod for a month. The first video is what made me want to make this post of what's been on my mind and as such I also recommend watching the miniseries. I will update this post with links to the remaining videos in the series.
+From time to time, I watch videos by [Digging The Greats](https://www.youtube.com/@diggingthegreats) and he just started this 4-part miniseries of his experience listening to music on just an iPod for a month. The first video is what made me want to make this post of what's been on my mind and as such I also recommend watching the miniseries.
 
 1. [Using This iPod For 30 Days Changed My Life
 ](https://youtu.be/Ou2dW4qebbw)
 2. [The REAL Reason Algorithms are Bad For Culture (iPod Week 2)
 ](https://youtu.be/t9TZh0oNAHQ)
+3. [I Dumb-i-fied my iPhone and Got My Life Back (iPod Week 3)](https://youtu.be/_L-WUrZ7tJM)
