@@ -31,7 +31,7 @@ I think we, as developers, should re-evaluate if apps really need gamification a
 
 Of course, it will seem like turning a huge ship since in most cases some big tech is involved but generally, something needs to change as it’s clearly becoming unhealthy for most.
 
-## Links: 
+## Links 
 
 - [Inside the global computer crash](https://youtu.be/6gRcbeFnucA?t=1957) - have a listen to this The Vergecast podcast (starts after the [Crowdstrike IT outage discussion](https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking)) where [Adrian Hon](https://en.wikipedia.org/wiki/Adrian_Hon) talks about his experience with Fitness apps and his approach to co-creating the popular fitness game [_Zombies, Run!_](https://zrx.app/) without including streaks and aggressive notifications but relying solely on a good storyline/motivator: 
 - [Broken Streaks and Broken Hearts](https://medium.com/sketchpad/broken-streaks-and-broken-hearts-fdc6427d8749).
