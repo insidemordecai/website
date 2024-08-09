@@ -21,14 +21,15 @@ Here is a collection of other places you can find me and websites/articles I fin
 
 - [Drive Talks](https://auto.insidemordecai.com) - a car/motorsport blog I run and post on sometimes.
 
-## Other Websites
+## Blogroll
 
 - [47nil](https://47nil.com) - about the author's random thoughts
+- [Christopher Butler](https://www.chrbutler.com/) - thoughts on design and culture evolution.
+- [Eric Murphy](https://ericmurphy.xyz) - posts about the web, Linux, minimal sites and other topics.
 - [Manu Moreale](https://manuelmoreale.com/)
 - [niqwithq](https://niqwithq.com) - "I love to tell stories and blogging is my way to reflect on topics that are very close to my heart."
 - [Open Source Musings](https://opensourcemusings.com/) - a website about free and open source software.
-- [Christopher Butler](https://www.chrbutler.com/) - thoughts on design and culture evolution.
-- [Eric Murphy](https://ericmurphy.xyz) - posts about the web, Linux, minimal sites and other topics.
+- [Robb Knight](https://rknight.me)
 
 ## Text Playlist
 
@@ -39,3 +40,4 @@ Inspired by [Scott Nesbitt](https://scottnesbitt.net/)
 - [My Coffee Maker Just Makes Coffee](https://btxx.org/posts/one-thing/)
 - [Some Thoughts on Social Media](https://chrishannah.me/some-thoughts-on-social-media-2021-sept/)
 - [Unsolicited blogging advice](https://manuelmoreale.com/unsolicited-blogging-advice)
+- [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
