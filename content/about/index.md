@@ -10,6 +10,7 @@ showLikes: false
 sharingLinks: false
 showAuthor: false
 showPagination : false
+replyByEmail: false
 ---
 
 Hi 👋 I'm a Software Developer and a Computer Science graduate based in Kenya.

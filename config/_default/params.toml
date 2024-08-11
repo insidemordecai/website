@@ -8,6 +8,7 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+replyByEmail = true
 disableImageOptimization = false
 # defaultBackgroundImage = "img/background.jpg"
 
