@@ -35,9 +35,6 @@ In my former years, I did some piano playing and singing - not that I don't sing
 
 This website has gone through various iterations over the years. From the days of Blogger, Wordpress, Medium, good ol' HTML and many more changes in between. Currently, this site is built using [Hugo][hugo] static site generator and [Blowfish][blowfish]. 
 
-"Pizza" icon used as favicon is by Asa Kharisma Dini from [Noun Project](https://thenounproject.com/browse/icons/term/pizza/)
-
-
 ## Privacy and Copyrights
 
 This site makes use of GoatCounter which is an open-source and privacy-friendly web analytics platform. 
