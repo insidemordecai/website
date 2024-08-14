@@ -1,6 +1,7 @@
 ---
 title: Links
 slug: links
+aliases: bookmarks
 date: 2023-01-30T09:51:03+03:00
 categories: []
 tags: []
@@ -15,9 +16,9 @@ sharingLinks: false
 showPagination: false
 ---
 
-Here is a collection of other places you can find me and websites/articles I find interesting. These are mainly places I find inspiration from or tend to reference a lot.
+Here is a collection of other places you can find me and blogs and posts. These are mainly places I find interesting, get inspiration from or tend to reference a lot.
 
-## Mine
+## Thine Own
 
 - [Drive Talks](https://auto.insidemordecai.com) - a car/motorsport blog I run and post on sometimes.
 
@@ -26,6 +27,7 @@ Here is a collection of other places you can find me and websites/articles I fin
 - [47nil](https://47nil.com) - about the author's random thoughts
 - [Christopher Butler](https://www.chrbutler.com/) - thoughts on design and culture evolution.
 - [Eric Murphy](https://ericmurphy.xyz) - posts about the web, Linux, minimal sites and other topics.
+- [Public Diary Records](https://iamrajab.blogspot.com/) - a friend's blog that is poetry heavy
 - [Manu Moreale](https://manuelmoreale.com/)
 - [niqwithq](https://niqwithq.com) - "I love to tell stories and blogging is my way to reflect on topics that are very close to my heart."
 - [Open Source Musings](https://opensourcemusings.com/) - a website about free and open source software.
