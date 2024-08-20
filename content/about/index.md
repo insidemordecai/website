@@ -1,5 +1,5 @@
 ---
-title: "A Quick Glimpse"
+title: "whoami"
 date: 2022-10-25T17:57:52+03:00
 draft: false
 
