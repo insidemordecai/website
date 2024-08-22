@@ -9,6 +9,10 @@ tags: [Networking, DNS Request, Firewall, Load Balancing]
 draft: false
 ---
 
+{{< alert "circle-info" >}}
+This article was done in fulfillment of an assignment for a Software Engineering course.
+{{< /alert >}}
+
 Billions of people on earth open their browsers everyday and type their favourite website's URL - be it a social media site or some news outlet. Depending on your internet speed, this might be a matter of milliseconds but have you ever wondered what happens behind the scenes? I'll get into that, hint - it's a lot.
 
 ## DNS Request
@@ -84,9 +88,7 @@ This is the simplified final flow:
 
 You have successfully landed on `google.com` or any other website after multiple steps that barely takes more than a second.
 
-## Resources
-
-Here are some resources for more information:
+## Explore Further 
 
 - [AWS: What happens when you type a URL into your browser?](https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/)
 - [Cisco: What Is a Firewall?](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)
@@ -95,8 +97,3 @@ Here are some resources for more information:
 - [NGINX: What Is Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/)
 - [NGINX: What Is an Application Server vs. a Web Server?](https://www.nginx.com/resources/glossary/application-server-vs-web-server/)
 - [phoenixNAP: What Is a Database Server & What Is It Used For?](https://phoenixnap.com/kb/what-is-a-database-server)
-
-{{< alert "circle-info" >}}
-This article was done in fulfillment of an assignment for a Software Engineering course.
-{{< /alert >}}
-
