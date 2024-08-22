@@ -3,13 +3,13 @@ title: On Single-Use Devices
 slug: on-single-use-devices
 summary: Thoughts on the appeal of dedicated gadgets in a smartphone era
 description: Thoughts on the appeal of dedicated gadgets in a smartphone era
-date: 2024-08-07T12:00:00+03:00
+date: 2024-08-21T12:00:00+03:00
 categories: [Opinion]
-tags: []
-draft: true 
+tags: [Dumbphone, iPod, eReader, Camera]
+draft: false 
 ---
 
-Recently, I find myself watching and reading materials on single-use devices. My YouTube home page is filled with videos about iPods, e-readers, feature phones, and other similar devices.
+Recently, I find myself watching and reading materials on single-use devices. My YouTube home page is filled with videos about iPods, e-readers, dumbphones, and other similar devices.
 
 Why do I gravitate towards content about dedicated devices? Why are more people creating content around this topic? I’ve also noticed more content about physical media and ownership.
 
@@ -25,9 +25,9 @@ I think the popularity of these devices will continue increasing as more and mor
 
 Truth be told, there is also a huge aspect of nostalgia that gets me (and probably a lot more people) googly eyes. Is that even a saying/phrase? I think you know what I mean though. 
 
-I never thought I’d be the one to enjoy this regression back to the mid-2000s, but I kinda like it. A feature phone for calls, messages, MPESA, and basic functionality, iPods for music, e-readers for reading, a camera for photography. 
+I never thought I’d be the one to enjoy this regression back to the mid-2000s, but I kinda like it. A dumbphone for calls, messages, MPESA, and basic functionality, iPods for music, e-readers for reading, a camera for photography. 
 
-While we’re at that, can someone make a feature phone with decent Spotify and a proper digital-to-analog converter (DAC)? Please!
+While we’re at that, can someone make a dumbphone with decent Spotify (where's lossless audio?) and a proper digital-to-analog converter (DAC)? Please!
 
 ## Digging The Greats' iPod Miniseries 
 
