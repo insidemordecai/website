@@ -1,5 +1,6 @@
 ---
 title: Colophon
+aliases: [privacy, credits, license]
 summary: Technical information about this website
 description: Technical information about this website
 date: 2024-08-27T19:47:27+03:00
