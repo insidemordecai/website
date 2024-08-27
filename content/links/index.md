@@ -12,11 +12,10 @@ showAuthor: false
 showHeadingAnchors: false
 showSummary: false
 showTaxonomies: false
-sharingLinks: false
 showPagination: false
 ---
 
-Here is a collection of other places you can find me and blogs and posts. These are mainly places I find interesting, get inspiration from or tend to reference a lot.
+Well hello there, here is a collection of other places you can find me and other  blogs and posts. These are mainly places I find interesting, get inspiration from or tend to reference a lot.
 
 ## Thine Own
 
@@ -24,14 +23,18 @@ Here is a collection of other places you can find me and blogs and posts. These 
 
 ## Blogroll
 
+Blogs I follow. Ordered alphabetically. 
+
 - [47nil](https://47nil.com) - about the author's random thoughts
 - [Christopher Butler](https://www.chrbutler.com/) - thoughts on design and culture evolution.
 - [Eric Murphy](https://ericmurphy.xyz) - posts about the web, Linux, minimal sites and other topics.
-- [Public Diary Records](https://iamrajab.blogspot.com/) - a friend's blog that is poetry heavy
+- [Kev Quirk](https://kevquirk.com/) - posts about tech, web design, blogging, watch collecting and Kev's other interests.
 - [Manu Moreale](https://manuelmoreale.com/)
 - [niqwithq](https://niqwithq.com) - "I love to tell stories and blogging is my way to reflect on topics that are very close to my heart."
 - [Open Source Musings](https://opensourcemusings.com/) - a website about free and open source software.
+- [Public Diary Records](https://iamrajab.blogspot.com/) - a friend's blog that is poetry heavy
 - [Robb Knight](https://rknight.me)
+- [The Jolly Teapot](https://thejollyteapot.com/about) - Nicolas writes about his experience with technology
 
 ## Text Playlist
 
