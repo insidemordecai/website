@@ -1,6 +1,6 @@
 ---
 title: Say Hello!
-slug: contact
+aliases: /hello
 date: 2024-08-19T12:42:41+03:00
 draft: false 
 

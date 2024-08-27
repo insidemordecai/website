@@ -1,6 +1,6 @@
 ---
 title: Colophon
-aliases: [privacy, credits, license]
+aliases: [/privacy, /credits, /license]
 summary: Technical information about this website
 description: Technical information about this website
 date: 2024-08-27T19:47:27+03:00
@@ -40,6 +40,6 @@ Additionally, Cloudflare logs some analytics since I use [Cloudflare Pages](http
 
 No cookies or ads are in place - this is not a billboard.
 
-## Usage and Licenses 
+## Usage and License 
 
 You are welcome to use any content of this website provided you give appropriate credit to me and refrain from using it for commercial purposes as this site is licensed under the [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 

@@ -1,7 +1,6 @@
 ---
 title: Links
-slug: links
-aliases: bookmarks
+aliases: [/bookmarks, /blogroll]
 date: 2023-01-30T09:51:03+03:00
 categories: []
 tags: []
