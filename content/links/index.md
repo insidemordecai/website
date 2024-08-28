@@ -1,6 +1,6 @@
 ---
 title: Links
-aliases: [/bookmarks, /blogroll]
+aliases: [/bookmarks, /blogroll, /slashes]
 date: 2023-01-30T09:51:03+03:00
 categories: []
 tags: []
@@ -16,9 +16,12 @@ showPagination: false
 
 Well hello there, here is a collection of other places you can find me and other  blogs and posts. These are mainly places I find interesting, get inspiration from or tend to reference a lot.
 
-## Thine Own
+## Thine Own / Slash Pages
 
 - [Drive Talks](https://auto.insidemordecai.com) - a car/motorsport blog I run and post on sometimes.
+- [/support]({{< ref "support/index.md" >}}) - feeling generous?
+- [/colophon]({{< ref "colophon/index.md" >}}) - technical information about this website. 
+- [/contact]({{< ref "contact/index.md" >}}) - how to reach out to me.
 
 ## Blogroll
 

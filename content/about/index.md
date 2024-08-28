@@ -37,4 +37,4 @@ In my former years, I did some piano playing and singing - not that I don't sing
 
 Want to know about this site (credits, privacy, licenses etc.)? Check out [the colophon.]({{< ref "colophon/index.md" >}})
 
-If there is a problem with this site or an improvement you’d like to suggest, please [open an issue on GitHub](https://github.com/insidemordecai/insidemordecai.com/issues) or [reach out directly]({{< ref "contact/index.md" >}})
+If there is a problem with this site or an improvement you’d like to suggest, please [open an issue on GitHub](https://github.com/insidemordecai/insidemordecai.com/issues) or [reach out directly.]({{< ref "contact/index.md" >}})

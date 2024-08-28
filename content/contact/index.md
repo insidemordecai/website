@@ -26,4 +26,4 @@ Reach out, I don't bite.
 
 ***
 
-_Page heavily inspired by [Manu Moreale's contact page](https://manuelmoreale.com/contact)_
+_Page heavily inspired by [Manu Moreale](https://manuelmoreale.com/)'s [contact page](https://manuelmoreale.com/contact)_
