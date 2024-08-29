@@ -4,7 +4,8 @@
     {{ i18n "error.404_error" | emojify }}
   </p>
   <div class="prose dark:prose-invert">
-    <img class="rounded mb-4 w-64 h-auto" src="/img/404.gif" alt="Dog head tilt animation">
+    {{ $animation := resources.Get "img/404.gif" }}
+    <img class="rounded mb-4 w-64 h-auto" src="{{ $animation.RelPermalink }}" alt="Dog head tilt animation">
     <p>But don't worry! Let's get you <a href="/">back to the home page.</a> </p>
   </div>
 {{ end }}
