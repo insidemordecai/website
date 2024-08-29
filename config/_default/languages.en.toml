@@ -20,7 +20,7 @@ title = "Mordecai Kipng'etich"
   bio = "not from Regular Show"
   links = [
     { email = "mailto:mk@insidemordecai.com"},
-    { x-twitter = "https://x.com/insidemordecai" },
+    { twitter = "https://x.com/insidemordecai" },
     { threads = "https://www.threads.net/insidemordecai"},
     { github = "https://github.com/insidemordecai" },
     { spotify = "https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4"},

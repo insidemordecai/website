@@ -1,7 +1,7 @@
 ---
 title: IT Support
 slug: it-support
-aliases: ksc
+aliases: /ksc
 summary: Simple guide to some IT Support concepts
 description: Simple guide to some IT Support concepts
 date: 2023-09-07

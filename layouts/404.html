@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <h1 class="mb-3 text-4xl font-extrabold">Uh-oh! My pet ate this page! 🐾</h1>
+  <p class="mt-8 mb-12 text-neutral-400 dark:text-neutral-500">
+    {{ i18n "error.404_error" | emojify }}
+  </p>
+  <div class="prose dark:prose-invert">
+    <img class="rounded mb-4 w-64 h-auto" src="/img/404.gif" alt="Dog head tilt animation">
+    <p>But don't worry! Let's get you <a href="/">back to the home page.</a> </p>
+  </div>
+{{ end }}

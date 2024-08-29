@@ -67,6 +67,6 @@ It is also an interesting and fun rabbit hole to go down from vanilla Vim to the
 
 Till next time, cheers.
 
-## Resources
+## Explore Further 
 
-[What is Vim?](https://opensource.com/resources/what-vim)
+- [What is Vim?](https://opensource.com/resources/what-vim)

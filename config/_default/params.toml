@@ -87,21 +87,9 @@ highlightCurrentMenuArea = true
   showHero = true
   heroStyle = "background"
 
-[firebase]
-  # apiKey = "AIzaSyDCLuiQ-2mwwojhYV0lGEBPeDkqJNpL0A4"
-  # authDomain = "insidemordecai.firebaseapp.com"
-  # projectId = "insidemordecai"
-  # storageBucket = "insidemordecai.appspot.com"
-  # messagingSenderId = "228384505712"
-  # appId = "1:228384505712:web:30019f365a2979a50259b5"
-  # measurementId = "G-CZX2TB59D8"
-
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
+[buymeacoffee]
+  identifier = "insidemordecai"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#009BAD"
+  globalWidgetPosition = "Right"

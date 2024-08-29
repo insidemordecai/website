@@ -18,17 +18,30 @@
 [[main]]
  name = "posts"
  pageRef = "posts"
- weight = 20
+ weight = 15
 
 # [[main]]
-#  name = "Projects"
+#  name = "projects"
 #  pageRef = "projects"
-#  weight = 30
+#  weight = 20
 
 [[main]]
   name = "links"
   pageRef = "links"
-  weight = 40
+  weight = 25
+
+[[main]]
+  name = "support"
+  pageRef = "support"
+  weight = 25
+
+[[main]]
+  identifier = "rss"
+  pre = "rss"
+  # name = "rss"
+  url = "/index.xml"
+  weight = 60 
+
 
 # [[main]]
 #  name = "Categories"
