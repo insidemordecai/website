@@ -25,18 +25,36 @@ Inspired by [slashpages.net](https://slashpages.net/)
 
 ## Blogroll
 
-Blogs I follow. Ordered alphabetically. 
+Blogs I follow (ordered alphabetically). 
 
-- [47nil](https://47nil.com) - about the author's random thoughts
-- [Christopher Butler](https://www.chrbutler.com/) - thoughts on design and culture evolution.
-- [Eric Murphy](https://ericmurphy.xyz) - posts about the web, Linux, minimal sites and other topics.
-- [Kev Quirk](https://kevquirk.com/) - posts about tech, web design, blogging, watch collecting and Kev's other interests.
-- [Manu Moreale](https://manuelmoreale.com/)
-- [niqwithq](https://niqwithq.com) - "I love to tell stories and blogging is my way to reflect on topics that are very close to my heart."
-- [Open Source Musings](https://opensourcemusings.com/) - a website about free and open source software.
-- [Public Diary Records](https://iamrajab.blogspot.com/) - a friend's blog that is poetry heavy
-- [Robb Knight](https://rknight.me)
-- [The Jolly Teapot](https://thejollyteapot.com/about) - Nicolas writes about his experience with technology
+- [47nil](https://47nil.com) - The owner describes it as a personal blog about common sense where he dumps everything on his mind. The site is devoid of fluff leaving only what is needed for readable content. 
+- [Christopher Butler](https://www.chrbutler.com/) - Christopher is a graphic designer. He writes his thoughts on design and culture evolution.
+- [Eric Murphy](https://ericmurphy.xyz) - Eric is a web developer and Youtuber. He posts about the web, Linux, minimal sites and other topics.
+- [Kev Quirk](https://kevquirk.com/) - posts about tech, web design, watch collecting and Kev's other interests.
+- [Labnotes](https://labnotes.org/) - think of Labnotes as a witty and informative weekly compilation of links, images, posts and pretty much everything on tech, design, and culture.
+- [Manu Moreale](https://manuelmoreale.com/) - Manuel is a freelance developer and designer who explores minimalism, tech and personal insights. A good place to discover other blogs is in his [People & Blogs](https://manuelmoreale.com/people-and-blogs) series where interesting people talk about themselves and their blogs. Additionally, his site has a tasteful and thoughtful minimal style.
+- [Minutes to Midnight](https://minutestomidnight.co.uk/) - opinions on improving the web, sustainability, tech, and audio, along with other interests.
+- [niqwithq](https://niqwithq.com) - Niq is a UX Designer and he tells stories and reflects on topics that are very close to his heart.
+- [Open Source Musings](https://opensourcemusings.com/) - a collection of thoughts about free/open source software.
+- [Public Diary Records](https://iamrajab.blogspot.com/) - a friend's blog all about poetry and reflections.
+- [Robb Knight](https://rknight.me) - Robb is a developer and podcaster. His website is fun and colourful to look at and he writes articles on tech, blogging, and other interests.
+- [The Jolly Teapot](https://thejollyteapot.com/about) - Nicolas' experience with tech and comments on Apple, software, internet, and media news.
+
+## Podroll
+
+Podcasts I follow or have listened to before and would recommend (ordered alphabetically). 
+
+- [Build for Tomorrow](https://www.jasonfeifer.com/build-for-tomorrow/) (formerly Pessimists Archive) - Jason Feifer explores today's challenges, their history, important nuances and toys with tomorrow's opportunities.
+- [Darknet Diaries](https://darknetdiaries.com/) - **my favourite podcast** is about 'true stories of the dark side of the internet' in a beginner-friendly package hosted by Jack Rhysider. 
+- [F1: Beyond The Grid](https://audioboom.com/channel/beyond-the-grid) - personal and often untold stories of F1 stars.
+- [Lateral](https://lateralcast.com/) - a comedy panel game of weird questions and wonderful answers, hosted by Tom Scott.
+- [P1 with Matt and Tommy](https://lnk.to/p1podcast/) - reactions, news, predictions and opinions from two diehard F1 fans.
+- [Reply All](https://gimletmedia.com/shows/reply-all/) - a podcast about the internet looking into its quirks and compelling stories. My favourite episode is '[#158 The Case of the Missing Hit](https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit/)'.
+- [Search Engine](https://www.searchengine.show/) (formerly Crypto Island) - PJ Vogt answers all sort of questions you might ask the internet when you can't sleep.
+- [Small Torque Podcast](https://podcasters.spotify.com/pod/show/katy-fairman/) - join Katy Fairman for a cup of tea and casual dive into the latest motorsport headlines and hot topics.
+- [Twenty Thousand Hertz](https://www.20k.org/) - stories behind the world's most recognisable and interesting sounds
+- [Waveform: The MKBHD Podcast](http://www.youtube.com/@Waveform) - need I describe what an [MKBHD](http://www.youtube.com/@mkbhd) podcast would be about?
+- [Who Shat On The Floor At My Wedding?](https://www.whoshatontheflooratmywedding.com/) - a comedic investigation into bizarre non-crime mysteries.
 
 ## Text Playlist
 
@@ -49,19 +67,3 @@ Inspired by [Scott Nesbitt](https://scottnesbitt.net/)
 - [Some Thoughts on Social Media](https://chrishannah.me/some-thoughts-on-social-media-2021-sept/)
 - [Unsolicited blogging advice](https://manuelmoreale.com/unsolicited-blogging-advice)
 - [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
-
-## Podroll
-
-Podcasts I follow or have listened to before and would recommended. Ordered alphabetically. 
-
-- [Build for Tomorrow](https://www.jasonfeifer.com/build-for-tomorrow/) (formerly Pessimists Archive) - Jason Feifer takes something concerning or confusing today, and learns its surprising history, what important things we’re missing, and how to take advantage of tomorrow.
-- [Darknet Diaries](https://darknetdiaries.com/) - **my favourite podcast** is about 'true stories of the dark side of the internet' in a beginner-friendly package hosted by Jack Rhysider. 
-- [F1: Beyond The Grid](https://audioboom.com/channel/beyond-the-grid) - personal and often untold stories of F1 stars hosted by Tom Clarkson.
-- [Lateral](https://lateralcast.com/) - a comedy panel game about weird questions with wonderful answers, hosted by [Tom Scott](https://www.tomscott.com/).
-- [P1 with Matt and Tommy](https://lnk.to/p1podcast/) - reactions, news, predictions and opinions from two diehard F1 fans.
-- [Reply All](https://gimletmedia.com/shows/reply-all/) - a podcast about the internet. My favourite episode is '[#158 The Case of the Missing Hit](https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit/)'.
-- [Search Engine](https://www.searchengine.show/) (formerly Crypto Island) - PJ Vogt answers all sort of questions you might ask the internet when you can't sleep.
-- [Small Torque Podcast](https://podcasters.spotify.com/pod/show/katy-fairman/) - join Katy Fairman for a cup of tea and fun, informal look at the big talking points from the world of motorsport.
-- [Twenty Thousand Hertz](https://www.20k.org/) - stories behind the world's most recognisable and interesting sounds
-- [Waveform: The MKBHD Podcast](http://www.youtube.com/@Waveform) - need I describe what an [MKBHD](http://www.youtube.com/@mkbhd) podcast would be about?
-- [Who Shat On The Floor At My Wedding? And Other Crimes](https://www.whoshatontheflooratmywedding.com/) - a comedic investigative show of non-crime crimes.
