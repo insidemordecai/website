@@ -38,8 +38,8 @@
 [[main]]
   identifier = "subscribe"
   pre = "rss"
-  # name = "subsribe"
-  pageRef = "subscribe"
+  # name = "subscribe"
+  url = "/subscribe"
   weight = 60 
 
 
@@ -58,13 +58,17 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-
 # [[footer]]
-#   name = "Tags"
+#   name = "tags"
 #   pageRef = "tags"
 #   weight = 10
 #
 # [[footer]]
-#   name = "Categories"
+#   name = "categories"
 #   pageRef = "categories"
+#   weight = 15
+#
+# [[footer]]
+#   name = "subscribe"
+#   pageRef = "subscribe"
 #   weight = 20
