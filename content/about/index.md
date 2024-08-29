@@ -17,6 +17,8 @@ Hi 👋 I'm a Software Developer and a Computer Science graduate based in Kenya.
 
 This site is intended to be my personal home and as such, all opinions are my own. 
 
+Want to connect? [Here's how.]({{< ref "contact/index.md" >}})
+
 ## What I do
 
 For over half a decade, I have been shipping code to meet client needs but also for fun. I mainly work with frontend projects but ocassionally dabble in some fullstack development.

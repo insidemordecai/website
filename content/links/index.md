@@ -18,10 +18,12 @@ Well hello there, here is a collection of other places you can find me and other
 
 ## Thine Own / Slash Pages
 
+Inspired by [slashpages.net](https://slashpages.net/)
+
 - [Drive Talks](https://auto.insidemordecai.com) - a car/motorsport blog I run and post on sometimes.
-- [/support]({{< ref "support/index.md" >}}) - feeling generous?
 - [/colophon]({{< ref "colophon/index.md" >}}) - technical information about this website. 
 - [/contact]({{< ref "contact/index.md" >}}) - how to reach out to me.
+- [/support]({{< ref "support/index.md" >}}) - feeling generous?
 
 ## Blogroll
 

@@ -1,6 +1,6 @@
 ---
 title: Support
-aliases: [/tip, /coffee]
+aliases: [/tip, /coffee, /donate]
 date: 2024-08-28T12:25:38+03:00
 draft: false
 
