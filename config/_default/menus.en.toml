@@ -38,7 +38,7 @@
 [[main]]
   # identifier = "subscribe"
   pre = "rss"
-  # name = "subscribe"
+  name = ""
   pageRef = "subscribe"
   weight = 60 
 
