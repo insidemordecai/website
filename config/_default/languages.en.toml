@@ -10,20 +10,4 @@ title = "Mordecai Kipng'etich"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   description = "Personal Website and Blog | Mordecai Kipng'etich"
-  copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) by Mordecai Kipng'etich"
-
-[author]
-  name = "Mordecai Kipng'etich"
-  email = "mk@insidemordecai.com"
-  image = "img/profile.png"
-  headline = "Software Developer | Tech Enthusiast"
-  bio = "not from Regular Show"
-  links = [
-    { email = "mailto:mk@insidemordecai.com"},
-    { twitter = "https://x.com/insidemordecai" },
-    { threads = "https://www.threads.net/insidemordecai"},
-    { github = "https://github.com/insidemordecai" },
-    { spotify = "https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4"},
-    { linkedin = "https://www.linkedin.com/in/insidemordecai" },
-    { goodreads = "https://www.goodreads.com/insidemordecai"}
-  ]
+  copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Mordecai Kipng'etich"

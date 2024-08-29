@@ -15,6 +15,22 @@ enableEmoji = true
 
 # googleAnalytics = "G-R5NDGF0KV2"
 
+[params.author]
+  name = "Mordecai Kipng'etich"
+  email = "mk@insidemordecai.com"
+  image = "img/profile.png"
+  headline = "Software Developer | Tech Enthusiast"
+  bio = "not from Regular Show"
+  links = [
+    { email = "mailto:mk@insidemordecai.com"},
+    { twitter = "https://x.com/insidemordecai" },
+    { threads = "https://www.threads.net/insidemordecai"},
+    { github = "https://github.com/insidemordecai" },
+    { spotify = "https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4"},
+    { linkedin = "https://www.linkedin.com/in/insidemordecai" },
+    { goodreads = "https://www.goodreads.com/insidemordecai"}
+  ]
+
 [permalinks]
   posts = '/:slug/' # for cleaner links
   attic = '/:slug/'
