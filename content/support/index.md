@@ -31,7 +31,6 @@ If a post or anything on here strikes a chord, you can repost on social media an
 
 Want to collaborate and make sparks fly? You can [contact me.]({{< ref "contact/index.md" >}})
 
-
-*** 
-
-_Page heavily inspired by [Pawlean](https://www.pawlean.com/)'s [support page.](https://www.pawlean.com/support)_
+{{< alert "mug-hot" >}}
+Page heavily inspired by [Pawlean](https://www.pawlean.com/)'s [support page.](https://www.pawlean.com/support)
+{{< /alert >}}

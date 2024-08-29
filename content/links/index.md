@@ -1,6 +1,8 @@
 ---
 title: Links
 aliases: [/bookmarks, /blogroll, /slashes, /podroll]
+summary: A collection of links to sites/podcasts/posts I want to share, and bookmark for future reference.
+description: A collection of links to sites/podcasts/posts I want to share, and bookmark for future reference.
 date: 2023-01-30T09:51:03+03:00
 draft: false
 showDate: false
@@ -12,7 +14,7 @@ showTaxonomies: false
 showPagination: false
 ---
 
-Well hello there, here is a collection of other places you can find me and other  blogs and posts. These are mainly places I find interesting, recommendations, get inspiration from or tend to reference a lot.
+Well hello there, here is a collection of other places you can find me and other  blogs/posts. These are mainly places I find interesting and recommendations.
 
 ## Thine Own / Slash Pages
 
@@ -43,7 +45,7 @@ Blogs I follow (ordered alphabetically).
 
 ## Podroll
 
-Podcasts I follow or have listened to before and would recommend (ordered alphabetically). 
+Podcasts I follow or have listened to before (ordered alphabetically). 
 
 - [Build for Tomorrow](https://www.jasonfeifer.com/build-for-tomorrow/) (formerly Pessimists Archive) - Jason Feifer explores today's challenges, their history, important nuances and toys with tomorrow's opportunities.
 - [Darknet Diaries](https://darknetdiaries.com/) - **my favourite podcast** is about 'true stories of the dark side of the internet' in a beginner-friendly package hosted by Jack Rhysider. 
@@ -59,7 +61,7 @@ Podcasts I follow or have listened to before and would recommend (ordered alphab
 
 ## Text Playlist
 
-Inspired by [Scott Nesbitt](https://scottnesbitt.net/)
+Some posts that I reference, for inspiration or as a reminder - inspired by [Scott Nesbitt](https://scottnesbitt.net/)
 
 - [minimal web](https://mnmlist.com/w/)
 - [Digital Minimalism](https://47nil.com/digital.html)

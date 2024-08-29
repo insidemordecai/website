@@ -9,14 +9,14 @@ categories: [Technical]
 tags: []
 draft: false
 ---
-{{< alert icon="circle-info" >}}
+{{< alert "circle-info" >}}
 Use Table of Content to quickly jump to desired section 
 {{< /alert >}}
 
 <br>
 
-{{< alert >}}
-**Work In Progress:** Still updating this post whenever something comes up.
+{{< alert "edit" >}}
+**WIP:** Still updating this post whenever something comes up.
 {{< /alert >}}
 
 ## Where to download Windows ISO files

@@ -1,6 +1,8 @@
 ---
 title: Say Hello!
 aliases: /hello
+summary: Details on how to contact me
+description: Details on how to contact me
 date: 2024-08-19T12:42:41+03:00
 draft: false 
 
@@ -24,6 +26,6 @@ Physically, you'll often find me in Nakuru or Nairobi, though I tend to be all o
 
 Reach out, I don't bite.
 
-***
-
-_Page heavily inspired by [Manu Moreale](https://manuelmoreale.com/)'s [contact page](https://manuelmoreale.com/contact)_
+{{< alert "star" >}}
+Page heavily inspired by [Manu Moreale](https://manuelmoreale.com/)'s [contact page](https://manuelmoreale.com/contact)
+{{< /alert >}}
