@@ -36,10 +36,10 @@
   weight = 25
 
 [[main]]
-  identifier = "rss"
+  identifier = "subscribe"
   pre = "rss"
-  # name = "rss"
-  url = "/index.xml"
+  # name = "subscribe"
+  pageRef = "subscribe"
   weight = 60 
 
 

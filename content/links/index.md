@@ -19,8 +19,9 @@ Well hello there, here is a collection of other places you can find me and other
 Inspired by [slashpages.net](https://slashpages.net/)
 
 - [Drive Talks](https://auto.insidemordecai.com) - a car/motorsport blog I run and post on sometimes.
-- [/colophon]({{< ref "colophon/index.md" >}}) - technical information about this website. 
+- [/colophon]({{< ref "colophon/index.md" >}}) - technical information about this site. 
 - [/contact]({{< ref "contact/index.md" >}}) - how to reach out to me.
+- [/subscribe]({{< ref "subscribe/index.md" >}}) - details on how to subscribe to this site.
 - [/support]({{< ref "support/index.md" >}}) - feeling generous?
 
 ## Blogroll
