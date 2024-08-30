@@ -9,7 +9,7 @@ tags: [Cloudflare Pages]
 draft: false
 ---
 
-For about a month, this website was not sending data to [GoatCounter - an open source web analytics platform](https://www.goatcounter.com/). I managed to resolve this but the rabbit hole led me to rediscover [Cloudflare Pages](https://pages.cloudflare.com).
+For about a month, this website was not sending data to [GoatCounter](https://www.goatcounter.com/). I managed to resolve this but the rabbit hole led me to rediscover [Cloudflare Pages](https://pages.cloudflare.com).
 
 **I still love and recommend GitHub Pages**, with a simple GitHub Action you can deploy your project and even [make use of custom domains]({{<ref "posts/202301-custom-domains-with-github-pages/index.md" >}}).
 

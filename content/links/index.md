@@ -48,7 +48,7 @@ Blogs I follow (ordered alphabetically).
 Podcasts I follow or have listened to before (ordered alphabetically). 
 
 - [Build for Tomorrow](https://www.jasonfeifer.com/build-for-tomorrow/) (formerly Pessimists Archive) - Jason Feifer explores today's challenges, their history, important nuances and toys with tomorrow's opportunities.
-- [Darknet Diaries](https://darknetdiaries.com/) - **my favourite podcast** is about 'true stories of the dark side of the internet' in a beginner-friendly package hosted by Jack Rhysider. 
+- [Darknet Diaries](https://darknetdiaries.com/) - this is **my favourite podcast** and it's about 'true stories of the dark side of the internet.' Jack Rhysider is a wonderful storyteller and is able to make cyber-crime, hacking and all that fun jazz beginner-friendly.
 - [F1: Beyond The Grid](https://audioboom.com/channel/beyond-the-grid) - personal and often untold stories of F1 stars.
 - [Lateral](https://lateralcast.com/) - a comedy panel game of weird questions and wonderful answers, hosted by Tom Scott.
 - [P1 with Matt and Tommy](https://lnk.to/p1podcast/) - reactions, news, predictions and opinions from two diehard F1 fans.

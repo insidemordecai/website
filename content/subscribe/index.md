@@ -16,7 +16,9 @@ showPagination : false
 replyByEmail: false
 ---
 
-RSS rocks and I absolutely love it! You can subscribe to this website using [RSS.](/index.xml) Copy this link into your RSS reader: 
+RSS rocks and I absolutely love it! You can subscribe to this website using [RSS.](/index.xml) 
+
+Copy this link into your RSS reader: 
 
 ```txt
 https://insidemordecai.com/index.xml

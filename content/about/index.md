@@ -27,7 +27,7 @@ Want to connect? [Here's how.]({{< ref "contact/index.md" >}})
 
 For over half a decade, I have been shipping code to meet client needs but also for fun. I mainly work with frontend projects but ocassionally dabble in some fullstack development.
 
-Previously, I worked with businesses across the continent as a Business Advisor helping them to understand and implement Odoo ERP. Odoo is a Belgian software company that aims to streamline businesses through software.
+Previously, I worked with businesses across the continent while at [Odoo](https://odoo.com/), a Belgian software company,  as a Business Advisor helping them to understand and implement Odoo.
 
 I have also worked in IT Support performing system and network administration and maintenance tasks on top of solving day-to-day issues.
 

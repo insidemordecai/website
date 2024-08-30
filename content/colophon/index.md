@@ -36,7 +36,7 @@ Currently, this site is hosted on [Cloudflare Pages](https://pages.cloudflare.co
 
 This site makes use of [GoatCounter](https://www.goatcounter.com/) which is an open-source and privacy-friendly web analytics platform to view basic analytics. 
 
-Additionally, Cloudflare logs some analytics since I use [Cloudflare Pages](https://pages.cloudflare.com/) and use it for DNS management.
+Additionally, Cloudflare logs some analytics since I use it for [Cloudflare Pages](https://pages.cloudflare.com/) and DNS management.
 
 No cookies or ads are in place - this is not a billboard.
 

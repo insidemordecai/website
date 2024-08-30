@@ -14,7 +14,7 @@ showPagination : false
 replyByEmail: false
 ---
 
-If you enjoy my content and feel kind, here are all the different ways you can support what I do online. Thank you so much – I appreciate it! 😊
+If you enjoy my content and feel genorous, here are some ways you can support what I do. Thanks a lot - I appreciate it! 😊
 
 ## Fund my coffee/tea addiction
 
@@ -25,11 +25,11 @@ If you enjoy my content and feel kind, here are all the different ways you can s
 
 ## Spread the word on social media
 
-If a post or anything on here strikes a chord, you can repost on social media and tag me while at it to let me know. That will be very much appreciated. 
+If anything on here strikes a chord, you can repost/quote on your site or social media and tag me while at it to let me know. That will be very much appreciated. 
 
 ## Work with me
 
-Want to collaborate and make sparks fly? You can [contact me.]({{< ref "contact/index.md" >}})
+You can also [contact me]({{< ref "contact/index.md" >}}) to collaborate and make sparks fly.
 
 {{< alert "mug-hot" >}}
 Page heavily inspired by [Pawlean](https://www.pawlean.com/)'s [support page.](https://www.pawlean.com/support)
