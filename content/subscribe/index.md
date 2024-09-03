@@ -16,7 +16,8 @@ showPagination : false
 replyByEmail: false
 ---
 
-RSS rocks and I absolutely love it! You can subscribe to this website using [RSS.](/index.xml) 
+RSS rocks and I absolutely love it! 
+You can subscribe to this website using [RSS.](/index.xml) 
 
 Copy this link into your RSS reader: 
 
@@ -24,7 +25,8 @@ Copy this link into your RSS reader:
 https://insidemordecai.com/index.xml
 ```
 
-For the uninitiated, check out [About Feeds](https://aboutfeeds.com/) to learn more about RSS and how you can set an RSS reader for yourself. Thank me later. 
+For the uninitiated, check out [About Feeds (webpage)](https://aboutfeeds.com/) or [RSS Made Easy (video)](https://youtu.be/6HNUqDL-pI8) to learn more about RSS.
+Thank me later!
 
 I recommend either of these:
 - [Unread](https://www.goldenhillsoftware.com/unread/) - what I currently use. Core features available for free (iOS/Mac). 

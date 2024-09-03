@@ -35,7 +35,7 @@ Blogs I follow (ordered alphabetically).
 - [Eric Murphy](https://ericmurphy.xyz) - Eric is a web developer and Youtuber. He posts about the web, Linux, minimal sites and other topics.
 - [Kev Quirk](https://kevquirk.com/) - posts about tech, web design, watch collecting and Kev's other interests.
 - [Labnotes](https://labnotes.org/) - think of Labnotes as a witty and informative weekly compilation of links, images, posts and pretty much everything on tech, design, and culture.
-- [Manu Moreale](https://manuelmoreale.com/) - Manuel is a freelance developer and designer who explores minimalism, tech and personal insights. A good place to discover other blogs is in his [People & Blogs](https://manuelmoreale.com/people-and-blogs) series where interesting people talk about themselves and their blogs. Additionally, his site has a tasteful and thoughtful minimal style.
+- [Manu](https://manuelmoreale.com/) - Manuel is a freelance developer and designer who writes about independent web, minimalism, tech, personal insights and a lot about people. You can discover some of them in his [People & Blogs](https://manuelmoreale.com/people-and-blogs) series where interesting people talk about themselves and their blogs. Also, his site has a tasteful and thoughtful minimal style.
 - [Minutes to Midnight](https://minutestomidnight.co.uk/) - opinions on improving the web, sustainability, tech, and audio, along with other interests.
 - [niqwithq](https://niqwithq.com) - Niq is a UX Designer and he tells stories and reflects on topics that are very close to his heart.
 - [Open Source Musings](https://opensourcemusings.com/) - a collection of thoughts about free/open source software.
