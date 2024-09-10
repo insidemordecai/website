@@ -3,10 +3,10 @@ title: Reply by Email
 slug: reply-by-email
 summary: Introducing blog comments via email.
 description: Introducing blog comments via email.
-date: 2024-09-10T12:00:00+03:00
+date: 2024-09-10T17:00:00+03:00
 categories: [Updates, Web, Opinion]
 tags: []
-draft: true
+draft: false 
 ---
 
 Years ago, I left comments on people’s blogs which led to interesting discussions and even friendships.
