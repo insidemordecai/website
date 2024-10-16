@@ -6,7 +6,7 @@ description: My understanding of a politically charged song by this well renowne
 date: 2024-10-16T16:00:00+03:00
 categories: [Music]
 tags: []
-draft: true
+draft: false
 ---
 
 There are some songs that just feel grand and Iron Sky is absolutely one of them. 
@@ -16,11 +16,11 @@ You almost get the feeling something heavy is lingering which is foreshadowing t
 Some piano chords join in with the drums for percussion. 
  
 27 seconds into the song is when Paolo soulfully comes in. 
-With his raspy and powerful voice, he enunciates certain words and paints an image.
-The image is that of a city that is working FOR something or someone bigger similar to slaves.
+With his raspy yet powerful voice, he enunciates his words and paints an image.
+The image is that of a city that is working FOR something or someone bigger similar to slavery.
 How people are turning to religion for salvation, but he questions if that is the ultimate source of power. 
 
-In the chorus, you get painting of how people in authority use love and hate to politically charge someone or a group of people against another. 
+In the chorus, the painting is that of how people in authority use love and hate to politically charge us against each other. 
 We are urged to overcome fear and get freedom.
 
 After a couple bars of instrumentations and reflection, the painting continues. 
@@ -28,7 +28,7 @@ You get to see how governments can skew reality and truth in their favour and ho
 We blindly follow those filled with greed, bitterness and hate.
 
 As we return back to the chorus, we find it slightly changed. 
-Passionate as ever but now some brass instruments chime in.  
+Passionate as ever but now some brass instruments chime in.
 Contrary to the first chorus where Paolo was making an observation and addressing us, this time he uses the pronouns ‘we’ to show he is part of us and wants us to unite - “we’ll rise.”
 
 We also get the refrain where he urges us to hold on despite the all-consuming emotions used against us. 
