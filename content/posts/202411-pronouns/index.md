@@ -1,8 +1,8 @@
 ---
 title: I Struggle with Some Pronouns
 slug: pronouns
-summary: Navigating people's preferred pronouns, language, and the learning curve.
-description: Navigating people's preferred pronouns, language, and the learning curve.
+summary: Navigating preferred pronouns, language, and the learning curve.
+description: Navigating preferred pronouns, language, and the learning curve.
 date: 2024-11-16T16:00:00+03:00
 categories: [Opinion]
 tags: []
