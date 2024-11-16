@@ -3,10 +3,10 @@ title: I Struggle with Some Pronouns
 slug: pronouns
 summary: Navigating people's preferred pronouns, language, and the learning curve.
 description: Navigating people's preferred pronouns, language, and the learning curve.
-date: 2024-11-16T12:00:00+03:00
+date: 2024-11-16T16:00:00+03:00
 categories: [Opinion]
 tags: []
-draft: true
+draft: false 
 ---
 
 I struggle with the pronouns ‘they/them’ but let’s get things straight, I do not hate or discriminate against people who use these pronouns or the queer community at large. 
