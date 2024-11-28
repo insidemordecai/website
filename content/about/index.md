@@ -17,17 +17,15 @@ replyByEmail: false
 
 Hi 👋 I'm a freelance Software Developer and a Computer Science graduate based in Kenya. 
 
-This site is intended to be my personal home and as such, all opinions are my own. 
-
 {{< alert "comment" >}}
-Want to connect? [Here's how.]({{< ref "contact/index.md" >}})
+Want to contact me? [Here's how.]({{< ref "contact/index.md" >}})
 {{< /alert >}}
 
 ## What I do
 
-For over half a decade, I have been shipping code to meet client needs but also for fun. I mainly work with frontend projects but ocassionally dabble in some fullstack development.
+For about a decade, I have been shipping code to meet client needs but also for fun. I mainly work with frontend projects but ocassionally dabble in some fullstack development.
 
-Previously, I worked with businesses across the continent while at [Odoo](https://odoo.com/), a Belgian software company,  as a Business Advisor helping them to understand and implement Odoo.
+Previously, I worked with businesses across the continent while at [Odoo](https://odoo.com/), a Belgian software company,  as a SaaS Consultant helping them to understand and implement Odoo.
 
 I have also worked in IT Support performing system and network administration and maintenance tasks on top of solving day-to-day issues.
 

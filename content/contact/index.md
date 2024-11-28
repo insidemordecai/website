@@ -16,16 +16,19 @@ showPagination : false
 replyByEmail: false
 ---
 
-Publishing content on here is great, but the real joy often times is in engaging and connecting with different people to discuss music, books, projects, feedback, a mutual topic of interest and anything under the sun.  
+Publishing content on here is great, but the real joy often times is in engaging and connecting with different people to discuss music, books, projects, a mutual topic of interest, get feedback and anything under the sun.  
 
-You could try to reach me via social media but I have a complicated relationship with it. The most reliable and easiest way to reach me is via email. Email is not dead and that's your cue to reach out at [mk@insidemordecai.com](mailto:mk@insidemordecai.com) about anything.
+You could try to reach me via social media but I have a complicated relationship with it. 
+The most reliable and easiest way to reach me is via email. 
+Email is not dead and that's your cue to reach out at [mk@insidemordecai.com](mailto:mk@insidemordecai.com) about anything.
 
 Also, if you’re in the Apple ecosystem, you can ping me on iMessage using the same email.
 
-Physically, you'll often find me in Nakuru or Nairobi, though I tend to be all over. If you're around, we can have a chat over coffee.
+Physically, you'll often find me in Nakuru or Nairobi, though I tend to be all over. 
+If you're around, we can have a chat over coffee.
 
 Reach out, I promise don't bite.
 
 {{< alert "star" >}}
-Page heavily inspired by [Manu Moreale](https://manuelmoreale.com/)'s [contact page](https://manuelmoreale.com/contact)
+Page heavily inspired by Manu Moreale's [contact page](https://manuelmoreale.com/contact)
 {{< /alert >}}

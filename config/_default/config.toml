@@ -23,12 +23,12 @@ enableEmoji = true
   bio = "not from Regular Show"
   links = [
     { email = "mailto:mk@insidemordecai.com"},
-    { twitter = "https://x.com/insidemordecai" },
-    # { bluesky = "https://bsky.app/profile/insidemordecai.com" }
-    { threads = "https://threads.net/insidemordecai"},
-    { github = "https://github.com/insidemordecai" },
     { spotify = "https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4"},
-    { linkedin = "https://linkedin.com/in/insidemordecai" },
+    { bluesky = "https://bsky.app/profile/insidemordecai.com" },
+    { threads = "https://threads.net/insidemordecai"},
+    { twitter = "https://x.com/insidemordecai" },
+    { github = "https://github.com/insidemordecai" },
+    # { linkedin = "https://linkedin.com/in/insidemordecai" },
     { goodreads = "https://goodreads.com/insidemordecai"}
   ]
 
