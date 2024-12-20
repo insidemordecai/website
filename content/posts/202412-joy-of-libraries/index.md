@@ -1,12 +1,12 @@
 ---
 title: The Joy of Libraries
 slug: joy-of-libraries
-summary:
-description: 
-date: 2024-12-17T15:14:35+03:00
+summary: Exploring the allure and vibes of libraries from my past
+description: Exploring the allure and vibes of libraries from my past
+date: 2024-12-20T17:35:00+03:00
 categories: [Opinion]
 tags: [Books, Libraries]
-draft: true
+draft: false
 ---
 
 James from James’ Coffee Blog wrote [The Joy of Bookshops](https://jamesg.blog/2024/11/28/joy-of-bookshops/) and just the title sparked something within me and inspired this piece.
@@ -22,13 +22,16 @@ Days would be spent reconnecting with cousins, telling stories, walking around t
 This was the only public library in my _shagz_.
 It was grand and it felt like being transported to a different world when you walk in.
 
+{{< carousel images="img/kabarnet*" >}}
+<figcaption>Photo credits: <a href="https://www.facebook.com/KNLSKenya/posts/kabarnet-library-enjoys-a-serene-environment-at-its-location-making-it-an-exitin/947815905258042/">The Kenya National Library Service </a></figcaption>
+
 The area was secluded among trees, it was calm with mostly the sounds of birds and nature and out of this serene environment sprang this stone library.
 I remember the lady at the front desk was not too welcoming but that would never dampen my joy.
 The building inside was massive with different sections depending on your age.
 I always wanted to explore the big boys section, and I did sometimes, but the front desk lady had a keen eye.
 There were books and more books towering over my younger self, you would think that was the entire knowledge base of the world but thank god I was wrong. 
 
-My experience could be clouded and perhaps the library might not have the same feel to it nowadays, but it was glorious back then.
+Maybe I'm nostalgic with clouded memory and perhaps the library might not have the same feel to it, but the experience was glorious back then.
 
 Back in primary school, one of the schools I was at was still new and expanding and as such we had this tiny library.
 That’s an overstatement, it was more of a small room you borrowed from but didn’t overstay your welcome.
@@ -39,7 +42,7 @@ It’s like getting a big tight hug or having a cup of hot chocolate when it’s
 
 This experience isn’t just with physical libraries, I enjoy books based on experiences at bookshops or libraries.
 Japanese books have beautiful covers and a subset within them are books with bookshops on the cover.
-It’s a cheat code to have me read your novel, I mean that’s how Satoshi Yagisawa got me to read _Days at The Morisaki Bookshop_.
+It’s basically a cheat code to have me read a novel, I mean that’s how Satoshi Yagisawa got me to read _Days at The Morisaki Bookshop_.
 
 I know this might not be representative of everyone’s experience with bookshops or libraries but these places are cozy and welcoming.
 If only they sold coffee then perhaps they might be profitable cause nothing beats reading with your favourite hot beverage by the side.
