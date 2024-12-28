@@ -70,4 +70,4 @@ Some posts that I reference, for inspiration or as a reminder
 - [Some Thoughts on Social Media](https://chrishannah.me/some-thoughts-on-social-media-2021-sept/)
 - [Unsolicited blogging advice](https://manuelmoreale.com/unsolicited-blogging-advice)
 - [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
-- [A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)
+- [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)
