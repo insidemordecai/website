@@ -22,7 +22,6 @@ If you enjoy my content and feel genorous, here are some ways you can support wh
 - or [reach out directly]({{< ref "contact/index.md" >}}) for an alternative. You can also contact me to collaborate and make sparks fly!
 
 If anything on here strikes a chord, you can repost/quote anywhere and tag me while at it to let me know. 
-That will be very much appreciated. 
 
 Thanks a lot - I appreciate it! 😊
 

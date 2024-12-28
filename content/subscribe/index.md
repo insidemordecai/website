@@ -17,15 +17,13 @@ replyByEmail: false
 ---
 
 RSS rocks and I absolutely love it! 
-You can subscribe to this website using [RSS.](/index.xml) 
-
-Copy this link into your RSS reader: 
+You can subscribe to this website using RSS by copying this [link](/index.xml) into your RSS reader: 
 
 ```txt
 https://insidemordecai.com/index.xml
 ```
 
-For the uninitiated, check out [About Feeds (webpage)](https://aboutfeeds.com/) or [RSS Made Easy (video)](https://youtu.be/6HNUqDL-pI8) to learn more about RSS.
+For the uninitiated, check out [About Feeds (📝)](https://aboutfeeds.com/) or [RSS Made Easy (▶️)](https://youtu.be/6HNUqDL-pI8) to learn more about RSS.
 Thank me later!
 
 I recommend either of these:

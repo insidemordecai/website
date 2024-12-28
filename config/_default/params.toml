@@ -89,7 +89,7 @@ highlightCurrentMenuArea = true
 
 [buymeacoffee]
   identifier = "insidemordecai"
-  globalWidget = true
+  globalWidget = false
   globalWidgetMessage = ""
   globalWidgetColor = "#009BAD"
   globalWidgetPosition = "Right"

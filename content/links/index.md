@@ -14,11 +14,11 @@ showTaxonomies: false
 showPagination: false
 ---
 
-Well hello there, here is a collection of other places you can find me and other  blogs/posts. These are mainly places I find interesting and recommendations.
+Here is a collection of other places you can find me and other  blogs/posts. These are mainly places I find interesting and recommendations.
 
-## Thine Own / Slash Pages
+## Slash Pages
 
-Inspired by [slashpages.net](https://slashpages.net/)
+> Inspired by [slashpages.net](https://slashpages.net/)
 
 - [Drive Talks](https://auto.insidemordecai.com) - a car/motorsport blog I run and post on sometimes.
 - [/colophon]({{< ref "colophon/index.md" >}}) - technical information about this site. 
@@ -37,8 +37,7 @@ Blogs I follow (ordered alphabetically).
 - [Labnotes](https://labnotes.org/) - think of Labnotes as a witty and informative weekly compilation of links, images, posts and pretty much everything on tech, design, and culture.
 - [Manu](https://manuelmoreale.com/) - Manuel is a freelance developer and designer who writes about independent web, minimalism, tech, personal insights and a lot about people. You can discover some of them in his [People & Blogs](https://manuelmoreale.com/people-and-blogs) series where interesting people talk about themselves and their blogs. Also, his site has a tasteful and thoughtful minimal style.
 - [Minutes to Midnight](https://minutestomidnight.co.uk/) - opinions on improving the web, sustainability, tech, and audio, along with other interests.
-- [niqwithq](https://niqwithq.com) - Niq is a UX Designer and he tells stories and reflects on topics that are very close to his heart.
-- [Open Source Musings](https://opensourcemusings.com/) - a collection of thoughts about free/open source software.
+- [niqwithq](https://niqwithq.com) - Nicolas is a UX Designer and he tells stories and reflects on topics that are very close to his heart.
 - [Public Diary Records](https://iamrajab.blogspot.com/) - a friend's blog all about poetry and reflections.
 - [Robb Knight](https://rknight.me) - Robb is a developer and podcaster. His website is fun and colourful to look at and he writes articles on tech, blogging, and other interests.
 - [The Jolly Teapot](https://thejollyteapot.com/about) - Nicolas' experience with tech and comments on Apple, software, internet, and media news.
@@ -61,12 +60,14 @@ Podcasts I follow or have listened to before (ordered alphabetically).
 
 ## Text Playlist
 
-Some posts that I reference, for inspiration or as a reminder - inspired by [Scott Nesbitt](https://scottnesbitt.net/)
+> Inspired by [Scott Nesbitt](https://scottnesbitt.net/)
+
+Some posts that I reference, for inspiration or as a reminder 
 
 - [minimal web](https://mnmlist.com/w/)
 - [Digital Minimalism](https://47nil.com/digital.html)
-- [Feeling Stuck is the Creative Process](https://writing.fm/stuck)
 - [My Coffee Maker Just Makes Coffee](https://btxx.org/posts/one-thing/)
 - [Some Thoughts on Social Media](https://chrishannah.me/some-thoughts-on-social-media-2021-sept/)
 - [Unsolicited blogging advice](https://manuelmoreale.com/unsolicited-blogging-advice)
 - [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+- [A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/)

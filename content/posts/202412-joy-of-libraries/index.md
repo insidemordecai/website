@@ -9,7 +9,7 @@ tags: [Books, Libraries]
 draft: false
 ---
 
-James from James’ Coffee Blog wrote [The Joy of Bookshops](https://jamesg.blog/2024/11/28/joy-of-bookshops/) and just the title sparked something within me and inspired this piece.
+James from _James’ Coffee Blog_ wrote [The Joy of Bookshops](https://jamesg.blog/2024/11/28/joy-of-bookshops/) and just the title sparked something within me inspiring this piece.
 
 I barely frequent bookshops or libraries. 
 Actually, I don’t think I remember the last time I was in one despite being an avid reader but when I try to recall them, I get pleasant memories.
@@ -42,9 +42,10 @@ It’s like getting a big tight hug or having a cup of hot chocolate when it’s
 
 This experience isn’t just with physical libraries, I enjoy books based on experiences at bookshops or libraries.
 Japanese books have beautiful covers and a subset within them are books with bookshops on the cover.
-It’s basically a cheat code to have me read a novel, I mean that’s how Satoshi Yagisawa got me to read _Days at The Morisaki Bookshop_.
+It’s basically a cheat code to have me read something, I mean that’s how Satoshi Yagisawa got me to read _Days at The Morisaki Bookshop_.
 
 I know this might not be representative of everyone’s experience with bookshops or libraries but these places are cozy and welcoming.
+
 If only they sold coffee then perhaps they might be profitable cause nothing beats reading with your favourite hot beverage by the side.
-Paired up with the smell and vibe of old and new books, the lighting, the soundscape, the textures when you run your fingers along book spines.
+Paired up with the woody smell of old books, the moody lighting, the mosaic of textures when you run your fingers along book spines and the perfectly damped soundscape as if the books conspired to hush every sound that dared to intrude.
 It’s a feeling that fully envelopes you and tingles all your senses, and boy oh boy would I want more of them in Kenya.

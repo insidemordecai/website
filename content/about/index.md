@@ -15,7 +15,7 @@ showPagination : false
 replyByEmail: false
 ---
 
-Hi 👋 I'm a freelance Software Developer and a Computer Science graduate based in Kenya. 
+Hi 👋 I'm a freelance (fancy way to say unemployed) Software Developer and a Computer Science graduate based in Kenya. 
 
 {{< alert "comment" >}}
 Want to contact me? [Here's how.]({{< ref "contact/index.md" >}})
