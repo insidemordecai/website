@@ -46,16 +46,16 @@ Blogs I follow (ordered alphabetically).
 
 Podcasts I follow or have listened to before (ordered alphabetically). 
 
-- [Build for Tomorrow](https://www.jasonfeifer.com/build-for-tomorrow/) (formerly Pessimists Archive) - Jason Feifer explores today's challenges, their history, important nuances and toys with tomorrow's opportunities.
+- [Build for Tomorrow](https://www.jasonfeifer.com/build-for-tomorrow/) (formerly Pessimists Archive) - Jason Feifer explores today's challenges, their history, important nuances and how we can learn from them.
 - [Darknet Diaries](https://darknetdiaries.com/) - this is **my favourite podcast** and it's about 'true stories of the dark side of the internet.' Jack Rhysider is a wonderful storyteller and is able to make cyber-crime, hacking and all that fun jazz beginner-friendly.
 - [F1: Beyond The Grid](https://audioboom.com/channel/beyond-the-grid) - personal and often untold stories of F1 stars.
 - [Lateral](https://lateralcast.com/) - a comedy panel game of weird questions and wonderful answers, hosted by Tom Scott.
-- [P1 with Matt and Tommy](https://lnk.to/p1podcast/) - reactions, news, predictions and opinions from two diehard F1 fans.
+- [P1 with Matt and Tommy](https://lnk.to/p1podcast/) - reactions and opinions from two diehard F1 fans.
 - [Reply All](https://gimletmedia.com/shows/reply-all/) - a podcast about the internet looking into its quirks and compelling stories. My favourite episode is '[#158 The Case of the Missing Hit](https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit/)'.
 - [Search Engine](https://www.searchengine.show/) (formerly Crypto Island) - PJ Vogt answers all sort of questions you might ask the internet when you can't sleep.
-- [Small Torque Podcast](https://podcasters.spotify.com/pod/show/katy-fairman/) - join Katy Fairman for a cup of tea and casual dive into the latest motorsport headlines and hot topics.
-- [Twenty Thousand Hertz](https://www.20k.org/) - stories behind the world's most recognisable and interesting sounds
-- [Waveform: The MKBHD Podcast](http://www.youtube.com/@Waveform) - need I describe what an [MKBHD](http://www.youtube.com/@mkbhd) podcast would be about?
+- [Small Torque Podcast](https://podcasters.spotify.com/pod/show/katy-fairman/) - first of all, what a clever name. Katy Fairman makes a cup of tea and casually dives into the latest motorsport headlines and topics.
+- [Twenty Thousand Hertz](https://www.20k.org/) - stories behind the world's most recognisable and interesting sounds.
+- [Waveform](http://www.youtube.com/@Waveform) - need I describe what an MKBHD podcast would be about?
 - [Who Shat On The Floor At My Wedding?](https://www.whoshatontheflooratmywedding.com/) - a comedic investigation into bizarre non-crime mysteries.
 
 ## Text Playlist
