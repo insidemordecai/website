@@ -28,7 +28,7 @@ Here is a collection of other places you can find me and other  blogs/posts. The
 
 ## Blogroll
 
-Blogs I follow (ordered alphabetically). 
+Some blogs I follow and recommend (ordered alphabetically). 
 
 - [47nil](https://47nil.com) - The owner describes it as a personal blog about common sense where he dumps everything on his mind. The site is devoid of fluff leaving only what is needed for readable content. 
 - [Christopher Butler](https://www.chrbutler.com/) - Christopher is a graphic designer. He writes his thoughts on design and culture evolution.
@@ -44,7 +44,7 @@ Blogs I follow (ordered alphabetically).
 
 ## Podroll
 
-Podcasts I follow or have listened to before (ordered alphabetically). 
+Some podcasts I listen to and recommend (ordered alphabetically). 
 
 - [Build for Tomorrow](https://www.jasonfeifer.com/build-for-tomorrow/) (formerly Pessimists Archive) - Jason Feifer explores today's challenges, their history, important nuances and how we can learn from them.
 - [Darknet Diaries](https://darknetdiaries.com/) - this is **my favourite podcast** and it's about 'true stories of the dark side of the internet.' Jack Rhysider is a wonderful storyteller and is able to make cyber-crime, hacking and all that fun jazz beginner-friendly.

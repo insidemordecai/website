@@ -23,11 +23,12 @@ Want to contact me? [Here's how.]({{< ref "contact/index.md" >}})
 
 ## What I do
 
-For about a decade, I have been shipping code to meet client needs but also for fun. I mainly work with frontend projects but ocassionally dabble in some fullstack development.
+For about a decade, I have been shipping code to meet client needs but also for fun. 
+I mainly work with frontend projects but ocassionally dabble in some fullstack development.
 
 Previously, I worked with businesses across the continent while at [Odoo](https://odoo.com/), a Belgian software company,  as a SaaS Consultant helping them to understand and implement Odoo.
 
-I have also worked in IT Support performing system and network administration and maintenance tasks on top of solving day-to-day issues.
+I have also worked in IT Support performing network and system administration, maintenance tasks, training university students on Industrial Attachment on top of solving day-to-day issues.
 
 ## Outside of Work
 
