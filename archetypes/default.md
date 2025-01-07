@@ -4,7 +4,7 @@ slug: {{ .Name }}
 summary:
 description: 
 date: {{ .Date }}
-categories: [Technical, Updates, Web, Opinion, Music]
+categories: [Technical, Updates, Web, Opinion]
 tags: []
 draft: true
 ---

@@ -5,7 +5,7 @@ summary: This website has migrated from GitHub Pages to Cloudflare Pages
 description: This website has migrated from GitHub Pages to Cloudflare Pages
 date: 2023-08-18
 categories: [Updates]
-tags: [Cloudflare Pages]
+tags: [Cloudflare Pages, Meta]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ summary: Update on the evolution of this website
 description: Update on the evolution of this website
 date: 2023-11-27T18:03:23+03:00
 categories: [Updates]
-tags: []
+tags: [Blogging, Meta]
 draft: false
 ---
 

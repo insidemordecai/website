@@ -5,7 +5,7 @@ summary: Introducing blog comments via email.
 description: Introducing blog comments via email.
 date: 2024-09-10T17:00:00+03:00
 categories: [Updates, Web, Opinion]
-tags: []
+tags: [Meta]
 draft: false 
 ---
 

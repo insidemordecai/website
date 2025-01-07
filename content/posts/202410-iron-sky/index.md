@@ -4,8 +4,8 @@ slug: iron-sky
 summary: My understanding of a politically charged song by this well renowned Scot.
 description: My understanding of a politically charged song by this well renowned Scot.
 date: 2024-10-16T16:00:00+03:00
-categories: [Music]
-tags: []
+categories: [Opinion]
+tags: [Music]
 draft: false
 ---
 

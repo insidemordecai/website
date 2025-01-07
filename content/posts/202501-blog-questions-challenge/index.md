@@ -5,7 +5,7 @@ summary: Why I blog, my inspiration, the platform in use and other questions
 description: Why I blog, my inspiration, the platform in use and other questions
 date: 2025-01-07T17:47:49+03:00
 categories: [Web]
-tags: []
+tags: [Blogging, Meta]
 draft: false
 showTableOfContents: false
 ---
