@@ -32,3 +32,6 @@ I recommend either of these:
 - [Inoreader](https://www.inoreader.com/) - allows 150 subscriptions on the free plan (iOS/Android/Web).
 
 Need a hand? Don’t hesitate to [reach out]({{< ref "contact/index.md" >}}) — I’ll show you the light! 😂
+
+I haven't found any tool/platforms that can automate emails how I would like it to so RSS is the best way to subscribe to this site.
+If you insist on subscribing via email, you can email me and I will personally send my posts your way. 
