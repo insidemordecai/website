@@ -89,6 +89,6 @@ Basically, I don’t have immediate plans but I know for a fact something will c
 
 ---
 
-Those are my answers to the [Bear Blog](https://bearblog.dev/) challenge and I would like anybody with a website to answer them.
-If I was to tag someone specifically then I would love to see [Niq](https://niqwithq.com/) and [James](https://jamesg.blog/)’ answers. 
+Those are my answers to the [Bear Blog](https://bearblog.dev/) challenge, it felt very therapeutic answering them and I would urge anybody with a website to answer them.
+Let's keep this rolling!
 
