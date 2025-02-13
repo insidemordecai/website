@@ -30,28 +30,27 @@ Here is a collection of other places you can find me and other  blogs/posts. The
 
 Some blogs I follow and recommend (ordered alphabetically). 
 
-- [47nil](https://47nil.com) - The owner describes it as a personal blog about common sense where he dumps everything on his mind. The site is devoid of fluff leaving only what is needed for readable content. 
-- [Christopher Butler](https://www.chrbutler.com/) - Christopher is a graphic designer. He writes his thoughts on design and culture evolution.
-- [Eric Murphy](https://ericmurphy.xyz) - Eric is a web developer and Youtuber. He posts about the web, Linux, minimal sites and other topics.
+- [47nil](https://47nil.com) - The owner describes it as a personal blog about common sense where he dumps everything on his mind.  
+- [Christopher Butler](https://www.chrbutler.com/) - The owner is a graphic designer who writes his thoughts on evolution of design and culture.
+- [Eric Murphy](https://ericmurphy.xyz) - a web developer and YouTuber posting about the web, Linux, minimal sites and other topics.
 - [Kev Quirk](https://kevquirk.com/) - posts about tech, web design, watch collecting and Kev's other interests.
-- [Labnotes](https://labnotes.org/) - think of Labnotes as a witty and informative weekly compilation of links, images, posts and pretty much everything on tech, design, and culture.
-- [Manu](https://manuelmoreale.com/) - Manuel is a freelance developer and designer who writes about independent web, minimalism, tech, personal insights and a lot about people. You can discover some of them in his [People & Blogs](https://manuelmoreale.com/people-and-blogs) series where interesting people talk about themselves and their blogs. Also, his site has a tasteful and thoughtful minimal style.
+- [Labnotes](https://labnotes.org/) - think of this as a witty and informative weekly compilation of links, images, posts and pretty much everything on tech, design, and culture.
+- [Manu](https://manuelmoreale.com/) - Manuel is a freelance developer and designer who writes about independent web, minimalism, tech, personal insights and a lot about people. You can discover some of them in his [People & Blogs](https://manuelmoreale.com/people-and-blogs) series. Also, his site has a tasteful and thoughtful minimal style.
 - [Minutes to Midnight](https://minutestomidnight.co.uk/) - opinions on improving the web, sustainability, tech, and audio, along with other interests.
 - [niqwithq](https://niqwithq.com) - Nicolas is a UX Designer and he tells stories and reflects on topics that are very close to his heart.
-- [Public Diary Records](https://iamrajab.blogspot.com/) - a friend's blog all about poetry and reflections.
-- [Robb Knight](https://rknight.me) - Robb is a developer and podcaster. His website is fun and colourful to look at and he writes articles on tech, blogging, and other interests.
-- [The Jolly Teapot](https://thejollyteapot.com/about) - Nicolas' experience with tech and comments on Apple, software, internet, and media news.
+- [Public Diary Records](https://iamrajab.blogspot.com/) - a friend's blog all about daring poetry and reflections.
+- [Robb Knight](https://rknight.me) - fun and colourful website on tech, blogging, and other interests.
+- [The Jolly Teapot](https://thejollyteapot.com/about) - this covers Nicolas' experience with tech and comments on Apple, software, internet, and media news.
 
 ## Podroll
 
 Some podcasts I listen to and recommend (ordered alphabetically). 
 
-- [Build for Tomorrow](https://www.jasonfeifer.com/build-for-tomorrow/) (formerly Pessimists Archive) - Jason Feifer explores today's challenges, their history, important nuances and how we can learn from them.
-- [Darknet Diaries](https://darknetdiaries.com/) - this is **my favourite podcast** and it's about 'true stories of the dark side of the internet.' Jack Rhysider is a wonderful storyteller and is able to make cyber-crime, hacking and all that fun jazz beginner-friendly.
+- [Darknet Diaries](https://darknetdiaries.com/) - this is **my favourite podcast** and it's about 'true stories of the dark side of the internet.' Jack Rhysider is a wonderful storyteller and has a way of making cyber-crime, hacking and all that fun jazz beginner-friendly.
 - [F1: Beyond The Grid](https://audioboom.com/channel/beyond-the-grid) - personal and often untold stories of F1 stars.
 - [Lateral](https://lateralcast.com/) - a comedy panel game of weird questions and wonderful answers, hosted by Tom Scott.
 - [P1 with Matt and Tommy](https://lnk.to/p1podcast/) - reactions and opinions from two diehard F1 fans.
-- [Reply All](https://gimletmedia.com/shows/reply-all/) - a podcast about the internet looking into its quirks and compelling stories. My favourite episode is '[#158 The Case of the Missing Hit](https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit/)'.
+- [Reply All](https://gimletmedia.com/shows/reply-all/) - a podcast about the internet and its compelling stories. My favourite episode is '[#158 The Case of the Missing Hit](https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit/)'.
 - [Search Engine](https://www.searchengine.show/) (formerly Crypto Island) - PJ Vogt answers all sort of questions you might ask the internet when you can't sleep.
 - [Small Torque Podcast](https://podcasters.spotify.com/pod/show/katy-fairman/) - first of all, what a clever name. Katy Fairman makes a cup of tea and casually dives into the latest motorsport headlines and topics.
 - [Twenty Thousand Hertz](https://www.20k.org/) - stories behind the world's most recognisable and interesting sounds.
@@ -69,5 +68,4 @@ Some posts that I reference, for inspiration or as a reminder
 - [My Coffee Maker Just Makes Coffee](https://btxx.org/posts/one-thing/)
 - [Some Thoughts on Social Media](https://chrishannah.me/some-thoughts-on-social-media-2021-sept/)
 - [Unsolicited blogging advice](https://manuelmoreale.com/unsolicited-blogging-advice)
-- [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 - [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)
